@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dependencies>
+   <includePath signature="/ID:\ENGINEERING STUFF(s)\2015 - YUME_PROJECT\HEXAPOD GAIT GENERATOR\NEW MECHANICAL TEST\MOST RECENT PROJECT /ID:\ENGINEERING STUFF(s)\2015 - YUME_PROJECT\HEXAPOD GAIT GENERATOR\NEW MECHANICAL TEST\MOST RECENT PROJECT\YUME_HEXAPOD_GAIT_GENERATOR Ver. 2.0 /ID:\ENGINEERING STUFF(s)\2015 - YUME_PROJECT\HEXAPOD GAIT GENERATOR\NEW MECHANICAL TEST\MOST RECENT PROJECT\YUME_HEXAPOD_GAIT_GENERATOR Ver. 2.0\cmsis_boot /ID:\ENGINEERING STUFF(s)\2015 - YUME_PROJECT\HEXAPOD GAIT GENERATOR\NEW MECHANICAL TEST\MOST RECENT PROJECT\YUME_HEXAPOD_GAIT_GENERATOR Ver. 2.0\cmsis_lib /ID:\ENGINEERING STUFF(s)\2015 - YUME_PROJECT\HEXAPOD GAIT GENERATOR\NEW MECHANICAL TEST\MOST RECENT PROJECT\YUME_HEXAPOD_GAIT_GENERATOR Ver. 2.0\cmsis_lib\include /ID:\ENGINEERING STUFF(s)\2015 - YUME_PROJECT\HEXAPOD GAIT GENERATOR\NEW MECHANICAL TEST\MOST RECENT PROJECT\YUME_HEXAPOD_GAIT_GENERATOR Ver. 2.0\cmsis /ID:\ENGINEERING STUFF(s)\2015 - YUME_PROJECT\HEXAPOD GAIT GENERATOR\NEW MECHANICAL TEST\MOST RECENT PROJECT\YUME_HEXAPOD_GAIT_GENERATOR Ver. 2.0\yume_lib">
+      <source file="..\..\..\cmsis\core_cmInstr.h" lastModified="14d34599d0d">
+      </source>
+      <source file="..\..\..\cmsis\core_cm4.h" lastModified="14d345998f9">
+         <include file="..\..\..\cmsis\core_cmInstr.h"/>
+         <include file="..\..\..\cmsis\core_cmFunc.h"/>
+         <include file="..\..\..\cmsis\core_cm4_simd.h"/>
+      </source>
+      <source file="..\..\..\yume_lib\yume_hexapod_anatomy.h" lastModified="14d3463b135">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f4xx.h" lastModified="14d345994ff">
+      </source>
+      <source file="..\..\..\yume_lib\yume_systick_delay.h" lastModified="14d3463b158">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f4xx.c" lastModified="14d345e3b41">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_tim.c" lastModified="14d345a620e">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_tim.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h" lastModified="14d3459f23b">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\include\misc.h" lastModified="14d345a287e">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\yume_lib\yume_systick_delay.c" lastModified="14d3463b16b">
+         <include file="..\..\..\yume_lib\yume_systick_delay.h"/>
+      </source>
+      <source file="..\..\..\yume_lib\yume_usart_comm.h" lastModified="14ef4d12095">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_usart.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_tim.h"/>
+         <include file="..\..\..\cmsis_lib\include\misc.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\stm32f4xx_conf.h" lastModified="14d3459df25">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_spi.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_tim.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_usart.h"/>
+         <include file="..\..\..\cmsis_lib\include\misc.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\stm32f4xx.h" lastModified="14d345e3f09">
+         <include file="..\..\..\cmsis\core_cm4.h"/>
+         <include file="..\..\..\cmsis_boot\system_stm32f4xx.h"/>
+         <include file="..\..\..\cmsis_boot\stm32f4xx_conf.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_tim.h" lastModified="14d345a61fd">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_usart.h" lastModified="14d3464bd50">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\source\misc.c" lastModified="14d345a288c">
+         <include file="..\..\..\cmsis_lib\include\misc.h"/>
+      </source>
+      <source file="..\..\..\yume_lib\yume_lcd.h" lastModified="14e7375b391">
+      </source>
+      <source file="..\..\..\syscalls\syscalls.c" lastModified="14d345b18c8">
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_spi.c" lastModified="14d3459f20b">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_spi.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\yume_lib\yume_usart_comm.c" lastModified="14ecfe4f146">
+         <include file="..\..\..\yume_lib\yume_usart_comm.h"/>
+         <include file="..\..\..\yume_lib\yume_systick_delay.h"/>
+         <include file="..\..\..\yume_lib\yume_lcd.h"/>
+         <include file="..\..\..\yume_lib\yume_usart_var.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_usart.c" lastModified="14ed0181b19">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_usart.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\yume_lib\yume_lcd.c" lastModified="14e7375b2e6">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\yume_lib\yume_lcd.h"/>
+         <include file="..\..\..\yume_lib\yume_systick_delay.h"/>
+      </source>
+      <source file="..\..\..\main.c" lastModified="14f9a181752">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_tim.h"/>
+         <include file="..\..\..\cmsis_lib\include\misc.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_usart.h"/>
+         <include file="..\..\..\yume_lib\yume_macro_lib.h"/>
+         <include file="..\..\..\yume_lib\yume_global_var.h"/>
+         <include file="..\..\..\yume_lib\yume_hexapod_anatomy.h"/>
+         <include file="..\..\..\yume_lib\yume_systick_delay.h"/>
+         <include file="..\..\..\yume_lib\yume_usart_comm.h"/>
+         <include file="..\..\..\yume_lib\yume_usart_var.h"/>
+         <include file="..\..\..\yume_lib\yume_lcd.h"/>
+      </source>
+      <source file="..\..\..\cmsis\core_cmFunc.h" lastModified="14d34599d01">
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_rcc.c" lastModified="14d345994a2">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_spi.h" lastModified="14d3459f1fb">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\startup\startup_stm32f4xx.c" lastModified="14d345e3a3b">
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_gpio.c" lastModified="14d3459f24a">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\yume_lib\yume_usart_var.h" lastModified="14ecfddfd2e">
+      </source>
+      <source file="..\..\..\cmsis\core_cm4_simd.h" lastModified="14d34599cf4">
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h" lastModified="14d3459949f">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\yume_lib\yume_global_var.h" lastModified="14f99959ace">
+      </source>
+      <source file="..\..\..\yume_lib\yume_macro_lib.h" lastModified="14ecec8e7bd">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_tim.h"/>
+         <include file="..\..\..\cmsis_lib\include\misc.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_usart.h"/>
+      </source>
+   </includePath>
+</dependencies>

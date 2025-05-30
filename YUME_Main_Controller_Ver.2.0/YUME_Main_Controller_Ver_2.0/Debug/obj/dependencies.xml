@@ -1,0 +1,265 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dependencies>
+   <includePath signature="/ID:\ENGINEERING STUFF(s)\2015 - YUME_PROJECT\YUME_Main_Controller_Ver_2.0\YUME_Main_Controller_Ver.2.0\semihosting /ID:\ENGINEERING STUFF(s)\2015 - YUME_PROJECT\YUME_Main_Controller_Ver_2.0\YUME_Main_Controller_Ver.2.0\cmsis_lib\include /ID:\ENGINEERING STUFF(s)\2015 - YUME_PROJECT\YUME_Main_Controller_Ver_2.0\YUME_Main_Controller_Ver.2.0\cmsis /ID:\ENGINEERING STUFF(s)\2015 - YUME_PROJECT\YUME_Main_Controller_Ver_2.0\YUME_Main_Controller_Ver.2.0 /ID:\ENGINEERING STUFF(s)\2015 - YUME_PROJECT\YUME_Main_Controller_Ver_2.0\YUME_Main_Controller_Ver.2.0\cmsis_lib /ID:\ENGINEERING STUFF(s)\2015 - YUME_PROJECT\YUME_Main_Controller_Ver_2.0\YUME_Main_Controller_Ver.2.0\cmsis_boot /ID:\ENGINEERING STUFF(s)\2015 - YUME_PROJECT\YUME_Main_Controller_Ver_2.0 /ID:\ENGINEERING STUFF(s)\2015 - YUME_PROJECT\YUME_Main_Controller_Ver_2.0\YUME_Main_Controller_Ver.2.0\YUME_Library">
+      <source file="..\..\..\YUME_Library\yume_UV-TRON.c" lastModified="150a543d3cf">
+         <include file="..\..\..\YUME_Library\yume_UV-TRON.h"/>
+      </source>
+      <source file="..\..\..\YUME_Library\yume_infrared_proximity.h" lastModified="150cedd5b7f">
+         <include file="..\..\..\YUME_Library\main.h"/>
+      </source>
+      <source file="..\..\..\YUME_Library\yume_infrared_proximity.c" lastModified="150c429094e">
+         <include file="..\..\..\YUME_Library\yume_infrared_proximity.h"/>
+      </source>
+      <source file="..\..\..\cmsis\core_cm4.h" lastModified="14fe183b363">
+         <include file="..\..\..\cmsis\core_cmInstr.h"/>
+         <include file="..\..\..\cmsis\core_cmFunc.h"/>
+         <include file="..\..\..\cmsis\core_cm4_simd.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_i2c.c" lastModified="14fe18438e4">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_i2c.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\YUME_Library\yume_tcs3200.h" lastModified="15080ee2fa5">
+         <include file="..\..\..\YUME_Library\main.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\include\misc.h" lastModified="14fe18bd46e">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\YUME_Library\yume_tcs3200.c" lastModified="1510c6798a3">
+         <include file="..\..\..\YUME_Library\yume_tcs3200.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_tim.c" lastModified="14fe18b4e65">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_tim.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\source\misc.c" lastModified="14fe18bd4a9">
+         <include file="..\..\..\cmsis_lib\include\misc.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\stm32f4xx.h" lastModified="14fe19e3939">
+         <include file="..\..\..\cmsis\core_cm4.h"/>
+         <include file="..\..\..\cmsis_boot\system_stm32f4xx.h"/>
+         <include file="..\..\..\cmsis_boot\stm32f4xx_conf.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_usart.c" lastModified="14fe184b095">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_usart.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\YUME_Library\yume_utilities.h" lastModified="150680e1aa0">
+         <include file="..\..\..\YUME_Library\main.h"/>
+      </source>
+      <source file="..\..\..\YUME_Library\yume_systick_delay.h" lastModified="14ee0613df7">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\YUME_Library\test.c" lastModified="150aefefb0e">
+      </source>
+      <source file="..\..\..\YUME_Library\yume_sound_activation.h" lastModified="15066acae0e">
+         <include file="..\..\..\YUME_Library\main.h"/>
+      </source>
+      <source file="..\..\..\YUME_Library\yume_utilities.c" lastModified="1506c304979">
+         <include file="..\..\..\YUME_Library\yume_utilities.h"/>
+      </source>
+      <source file="..\..\..\YUME_Library\yume_systick_delay.c" lastModified="14ee0613dd9">
+         <include file="..\..\..\YUME_Library\yume_systick_delay.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h" lastModified="14fe183b04b">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\YUME_Library\yume_sound_activation.c" lastModified="1505ce22a64">
+         <include file="..\..\..\YUME_Library\yume_sound_activation.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f4xx.h" lastModified="14fe183aeec">
+      </source>
+      <source file="..\..\..\YUME_Library\yume_pid_controller.h" lastModified="150b4b17336">
+         <include file="..\..\..\YUME_Library\main.h"/>
+      </source>
+      <source file="..\..\..\cmsis\core_cmInstr.h" lastModified="14fe183b7d1">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f4xx.c" lastModified="14fe19e35ec">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\YUME_Library\yume_ping_receiver.h" lastModified="15066ab35fd">
+         <include file="..\..\..\YUME_Library\main.h"/>
+      </source>
+      <source file="..\..\..\YUME_Library\yume_mpu6050.h" lastModified="1501468efcd">
+         <include file="..\..\..\YUME_Library\main.h"/>
+      </source>
+      <source file="..\..\..\YUME_Library\yume_pid_controller.c" lastModified="1510c30f182">
+         <include file="..\..\..\YUME_Library\yume_pid_controller.h"/>
+      </source>
+      <source file="..\..\..\YUME_Library\yume_ping_receiver.c" lastModified="1505cfd800e">
+         <include file="..\..\..\YUME_Library\yume_ping_receiver.h"/>
+      </source>
+      <source file="..\..\..\YUME_Library\yume_mpu6050.c" lastModified="15014674a15">
+         <include file="..\..\..\YUME_Library\yume_mpu6050.h"/>
+      </source>
+      <source file="..\..\..\YUME_Library\yume_bldc_fan.h" lastModified="15066afcf49">
+         <include file="..\..\..\YUME_Library\main.h"/>
+      </source>
+      <source file="..\..\..\YUME_Library\yume_bldc_fan.c" lastModified="150669394e7">
+         <include file="..\..\..\YUME_Library\yume_bldc_fan.h"/>
+      </source>
+      <source file="..\..\..\syscalls\syscalls.c" lastModified="14fe18c69c2">
+      </source>
+      <source file="..\..\..\stdio\printf.c" lastModified="14ff15adbb5">
+      </source>
+      <source file="..\..\..\YUME_Library\yume_algorithm.h" lastModified="15110de8a54">
+         <include file="..\..\..\YUME_Library\main.h"/>
+      </source>
+      <source file="..\..\..\cmsis\core_cmFunc.h" lastModified="14fe183b76d">
+      </source>
+      <source file="..\..\..\YUME_Library\yume_interrupt_monitor.h" lastModified="15048b7c827">
+         <include file="..\..\..\YUME_Library\main.h"/>
+      </source>
+      <source file="..\..\..\YUME_Library\yume_algorithm.c" lastModified="15110fb6c03">
+         <include file="..\..\..\YUME_Library\yume_algorithm.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_usart.h" lastModified="14fe184b07f">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\YUME_Library\yume_interrupt_monitor.c" lastModified="1506cdd98cc">
+         <include file="..\..\..\YUME_Library\yume_interrupt_monitor.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\stm32f4xx_conf.h" lastModified="14fe183f8df">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_i2c.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_tim.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_usart.h"/>
+         <include file="..\..\..\cmsis_lib\include\misc.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_adc.h" lastModified="14fe183e9ee">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\YUME_Library\yume_ping_variables.h" lastModified="14f8a66c090">
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_rcc.c" lastModified="14fe183b064">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\semihosting\sh_cmd.s" lastModified="14ff13e27a5">
+      </source>
+      <source file="..\..\..\YUME_Library\yume_rotary_switch.h" lastModified="1506c304969">
+         <include file="..\..\..\YUME_Library\main.h"/>
+      </source>
+      <source file="..\..\..\YUME_Library\yume_tpa_servo.h" lastModified="150aa87f5c3">
+         <include file="..\..\..\YUME_Library\main.h"/>
+         <include file="..\..\..\YUME_Library\yume_hexapod_cmd.h"/>
+      </source>
+      <source file="..\..\..\semihosting\semihosting.h" lastModified="14ff13e2796">
+      </source>
+      <source file="..\..\..\YUME_Library\yume_lcd.h" lastModified="15032df6df4">
+      </source>
+      <source file="..\..\..\YUME_Library\yume_usart_comm.h" lastModified="1501f7b03a2">
+         <include file="..\..\..\YUME_Library\main.h"/>
+      </source>
+      <source file="..\..\..\YUME_Library\yume_rotary_switch.c" lastModified="1505db8bc04">
+         <include file="..\..\..\YUME_Library\yume_rotary_switch.h"/>
+      </source>
+      <source file="..\..\..\YUME_Library\yume_tpa_servo.c" lastModified="1509114029e">
+         <include file="..\..\..\YUME_Library\yume_tpa_servo.h"/>
+         <include file="..\..\..\YUME_Library\yume_hexapod_cmd.h"/>
+      </source>
+      <source file="..\..\..\semihosting\semihosting.c" lastModified="14ff13e2f45">
+         <include file="..\..\..\semihosting\semihosting.h"/>
+      </source>
+      <source file="..\..\..\YUME_Library\yume_lcd.c" lastModified="14ee3257d17">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\YUME_Library\yume_lcd.h"/>
+         <include file="..\..\..\YUME_Library\yume_systick_delay.h"/>
+      </source>
+      <source file="..\..\..\YUME_Library\yume_usart_comm.c" lastModified="1501fb2c4d8">
+         <include file="..\..\..\YUME_Library\yume_usart_comm.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_gpio.c" lastModified="14fe183ae47">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\cmsis\core_cm4_simd.h" lastModified="14fe183b761">
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_i2c.h" lastModified="14fe18438c1">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\YUME_Library\yume_macro_lib.h" lastModified="1507104b09f">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_adc.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_tim.h"/>
+         <include file="..\..\..\cmsis_lib\include\misc.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_usart.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_i2c.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\startup\startup_stm32f4xx.c" lastModified="14fe19e347e">
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h" lastModified="14fe183ae38">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_tim.h" lastModified="14fe18b4e55">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\YUME_Library\yume_user_interface.h" lastModified="150f2e11796">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+         <include file="..\..\..\YUME_Library\yume_macro_lib.h"/>
+         <include file="..\..\..\YUME_Library\yume_systick_delay.h"/>
+      </source>
+      <source file="..\..\..\main.c" lastModified="15110981857">
+         <include file="..\..\..\YUME_Library\main.h"/>
+      </source>
+      <source file="..\..\..\YUME_Library\yume_user_interface.c" lastModified="1510b901fab">
+         <include file="..\..\..\YUME_Library\yume_user_interface.h"/>
+      </source>
+      <source file="..\..\..\YUME_Library\yume_pid_var.h" lastModified="14f8a66c042">
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_adc.c" lastModified="14fe183ea0a">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_adc.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\YUME_Library\yume_hexapod_cmd.h" lastModified="15067316b11">
+         <include file="..\..\..\YUME_Library\main.h"/>
+      </source>
+      <source file="..\..\..\YUME_Library\yume_global_var.h" lastModified="14fa8e3dd41">
+         <include file="..\..\..\YUME_Library\main.h"/>
+      </source>
+      <source file="..\..\..\YUME_Library\main.h" lastModified="15105b05aa9">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_adc.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_tim.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_usart.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_i2c.h"/>
+         <include file="..\..\..\cmsis_lib\include\misc.h"/>
+         <include file="..\..\..\YUME_Library\yume_macro_lib.h"/>
+         <include file="..\..\..\YUME_Library\yume_global_var.h"/>
+         <include file="..\..\..\YUME_Library\yume_systick_delay.h"/>
+         <include file="..\..\..\YUME_Library\yume_user_interface.h"/>
+         <include file="..\..\..\YUME_Library\yume_rotary_switch.h"/>
+         <include file="..\..\..\YUME_Library\yume_lcd.h"/>
+         <include file="..\..\..\YUME_Library\yume_tcs3200.h"/>
+         <include file="..\..\..\YUME_Library\yume_infrared_proximity.h"/>
+         <include file="..\..\..\YUME_Library\yume_UV-TRON.h"/>
+         <include file="..\..\..\YUME_Library\yume_tpa_servo.h"/>
+         <include file="..\..\..\YUME_Library\yume_bldc_fan.h"/>
+         <include file="..\..\..\YUME_Library\yume_ping_variables.h"/>
+         <include file="..\..\..\YUME_Library\yume_pid_var.h"/>
+         <include file="..\..\..\YUME_Library\yume_ping_receiver.h"/>
+         <include file="..\..\..\YUME_Library\yume_hexapod_cmd.h"/>
+         <include file="..\..\..\YUME_Library\yume_usart_comm.h"/>
+         <include file="..\..\..\YUME_Library\yume_mpu6050.h"/>
+         <include file="..\..\..\YUME_Library\yume_pid_controller.h"/>
+         <include file="..\..\..\YUME_Library\yume_utilities.h"/>
+      </source>
+      <source file="..\..\..\YUME_Library\yume_hexapod_cmd.c" lastModified="150e72ca208">
+         <include file="..\..\..\YUME_Library\yume_hexapod_cmd.h"/>
+         <include file="..\..\..\YUME_Library\main.h"/>
+      </source>
+      <source file="..\..\..\YUME_Library\yume_global_var.c" lastModified="15110de8a1a">
+         <include file="..\..\..\YUME_Library\yume_global_var.h"/>
+      </source>
+      <source file="..\..\..\YUME_Library\yume_UV-TRON.h" lastModified="150a54443d3">
+         <include file="..\..\..\YUME_Library\main.h"/>
+      </source>
+   </includePath>
+</dependencies>

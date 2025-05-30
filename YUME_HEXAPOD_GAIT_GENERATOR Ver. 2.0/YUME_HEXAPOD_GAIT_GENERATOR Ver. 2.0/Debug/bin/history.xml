@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wall -g -nostartfiles -Map=YUME_HEXAPOD_GAIT_GENERATOR Ver. 2.0.map -O0 --gc-sections -lm -lgcc -lc -LC:\Softwares\CooCox\CoIDE\CoIDE\configuration\ProgramData\YUME_HEXAPOD_GAIT_GENERATOR Ver. 2.0 -TC:\Softwares\CooCox\CoIDE\CoIDE\configuration\ProgramData\YUME_HEXAPOD_GAIT_GENERATOR Ver. 2.0/arm-gcc-link.ld -g -LC:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu -lm">
+      <target file="YUME_HEXAPOD_GAIT_GENERATOR Ver. 2.0.elf" lastModified="14f9a182e4e">
+         <source file="C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a" lastModified="137e6c0a570"/>
+         <source file="..\obj\yume_lcd.o" lastModified="14f70276bb3"/>
+         <source file="..\obj\stm32f4xx_usart.o" lastModified="14f70276d9c"/>
+         <source file="..\obj\yume_usart_comm.o" lastModified="14f70276f32"/>
+         <source file="..\obj\startup_stm32f4xx.o" lastModified="14f70277081"/>
+         <source file="..\obj\main.o" lastModified="14f9a182a68"/>
+         <source file="..\obj\stm32f4xx_rcc.o" lastModified="14f7027795f"/>
+         <source file="..\obj\yume_systick_delay.o" lastModified="14f70277b07"/>
+         <source file="..\obj\stm32f4xx_gpio.o" lastModified="14f70277c90"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="14f70277df2"/>
+         <source file="..\obj\syscalls.o" lastModified="14f70277fae"/>
+         <source file="..\obj\stm32f4xx_spi.o" lastModified="14f702781b2"/>
+         <source file="..\obj\misc.o" lastModified="14f70278392"/>
+         <source file="..\obj\stm32f4xx_tim.o" lastModified="14f702786a6"/>
+      </target>
+   </processor>
+</history>

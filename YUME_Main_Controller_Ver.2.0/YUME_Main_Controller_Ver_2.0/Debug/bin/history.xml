@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wall -g -nostartfiles -Map=YUME_Main_Controller_Ver_2.0.map -O0 --gc-sections -lm -lgcc -lc -LC:\Softwares\CooCox\CoIDE\CoIDE\configuration\ProgramData\YUME_Main_Controller_Ver_2.0 -TC:\Softwares\CooCox\CoIDE\CoIDE\configuration\ProgramData\YUME_Main_Controller_Ver_2.0/arm-gcc-link.ld -g -LC:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu -lm">
+      <target file="YUME_Main_Controller_Ver_2.0.elf" lastModified="15110fb79bf">
+         <source file="C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a" lastModified="137e6c0a570"/>
+         <source file="..\obj\semihosting.o" lastModified="1510c9f7635"/>
+         <source file="..\obj\yume_lcd.o" lastModified="1510c9f76da"/>
+         <source file="..\obj\yume_mpu6050.o" lastModified="1510c9f7794"/>
+         <source file="..\obj\yume_rotary_switch.o" lastModified="1510c9f787f"/>
+         <source file="..\obj\stm32f4xx_usart.o" lastModified="1510c9f7940"/>
+         <source file="..\obj\yume_usart_comm.o" lastModified="1510c9f7a0d"/>
+         <source file="..\obj\startup_stm32f4xx.o" lastModified="1510c9f7ae4"/>
+         <source file="..\obj\main.o" lastModified="15110981ec0"/>
+         <source file="..\obj\stm32f4xx_rcc.o" lastModified="1510c9f7cf0"/>
+         <source file="..\obj\yume_bldc_fan.o" lastModified="1510c9f7dc7"/>
+         <source file="..\obj\stm32f4xx_adc.o" lastModified="1510c9f7ed0"/>
+         <source file="..\obj\printf.o" lastModified="1510c9f7fd9"/>
+         <source file="..\obj\yume_utilities.o" lastModified="1510c9f80d3"/>
+         <source file="..\obj\yume_systick_delay.o" lastModified="1510c9f817d"/>
+         <source file="..\obj\test.o" lastModified="1510c9f81e6"/>
+         <source file="..\obj\yume_tpa_servo.o" lastModified="1510c9f827c"/>
+         <source file="..\obj\yume_sound_activation.o" lastModified="1510c9f831e"/>
+         <source file="..\obj\stm32f4xx_gpio.o" lastModified="1510c9f8396"/>
+         <source file="..\obj\sh_cmd.o" lastModified="1510c9f83af"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="1510c9f844b"/>
+         <source file="..\obj\syscalls.o" lastModified="1510c9f84aa"/>
+         <source file="..\obj\yume_tcs3200.o" lastModified="1510c9f8581"/>
+         <source file="..\obj\yume_algorithm.o" lastModified="15110fb774e"/>
+         <source file="..\obj\yume_global_var.o" lastModified="15110de9b25"/>
+         <source file="..\obj\yume_infrared_proximity.o" lastModified="1510c9f8f4b"/>
+         <source file="..\obj\yume_pid_controller.o" lastModified="1510c9f8fd8"/>
+         <source file="..\obj\yume_user_interface.o" lastModified="1510c9f904b"/>
+         <source file="..\obj\stm32f4xx_i2c.o" lastModified="1510c9f90c3"/>
+         <source file="..\obj\yume_hexapod_cmd.o" lastModified="1510c9f92d0"/>
+         <source file="..\obj\misc.o" lastModified="1510c9f9339"/>
+         <source file="..\obj\yume_ping_receiver.o" lastModified="1510c9f93b6"/>
+         <source file="..\obj\yume_UV-TRON.o" lastModified="1510c9f9438"/>
+         <source file="..\obj\yume_interrupt_monitor.o" lastModified="1510c9f94a1"/>
+         <source file="..\obj\stm32f4xx_tim.o" lastModified="1510c9f955f"/>
+      </target>
+   </processor>
+</history>

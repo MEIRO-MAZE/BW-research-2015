@@ -1,0 +1,2632 @@
+Archive member included because of file (symbol)
+
+C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_atan.o)
+                              ..\obj\yume_hexapod_cmd.o (atan)
+C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_cos.o)
+                              ..\obj\yume_hexapod_cmd.o (cos)
+C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_fabs.o)
+                              C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_atan.o) (fabs)
+C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_fmax.o)
+                              ..\obj\yume_tpa_servo.o (fmax)
+C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_fpclassify.o)
+                              C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_fmax.o) (__fpclassifyd)
+C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_sin.o)
+                              ..\obj\yume_hexapod_cmd.o (sin)
+C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-w_acos.o)
+                              ..\obj\yume_hexapod_cmd.o (acos)
+C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-wf_atan2.o)
+                              ..\obj\yume_mpu6050.o (atan2f)
+C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-e_acos.o)
+                              C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-w_acos.o) (__ieee754_acos)
+C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-e_rem_pio2.o)
+                              C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_cos.o) (__ieee754_rem_pio2)
+C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-e_sqrt.o)
+                              C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-e_acos.o) (__ieee754_sqrt)
+C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-ef_atan2.o)
+                              C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-wf_atan2.o) (__ieee754_atan2f)
+C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-k_cos.o)
+                              C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_cos.o) (__kernel_cos)
+C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-k_rem_pio2.o)
+                              C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-e_rem_pio2.o) (__kernel_rem_pio2)
+C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-k_sin.o)
+                              C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_cos.o) (__kernel_sin)
+C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_floor.o)
+                              C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-k_rem_pio2.o) (floor)
+C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_lib_ver.o)
+                              C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-w_acos.o) (__fdlib_version)
+C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_matherr.o)
+                              C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-w_acos.o) (matherr)
+C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_nan.o)
+                              C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-w_acos.o) (nan)
+C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_scalbn.o)
+                              C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-k_rem_pio2.o) (scalbn)
+C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-sf_atan.o)
+                              C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-ef_atan2.o) (atanf)
+C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-sf_fabs.o)
+                              C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-ef_atan2.o) (fabsf)
+C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_copysign.o)
+                              C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_scalbn.o) (copysign)
+c:/softwares/coocox/gnu tools arm embedded/4.6 2012q2/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+                              ..\obj\yume_mpu6050.o (__aeabi_dsub)
+c:/softwares/coocox/gnu tools arm embedded/4.6 2012q2/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7e-m/fpu\libgcc.a(_arm_muldivdf3.o)
+                              ..\obj\yume_mpu6050.o (__aeabi_dmul)
+c:/softwares/coocox/gnu tools arm embedded/4.6 2012q2/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+                              C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-e_rem_pio2.o) (__aeabi_dcmpeq)
+c:/softwares/coocox/gnu tools arm embedded/4.6 2012q2/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7e-m/fpu\libgcc.a(_arm_fixdfsi.o)
+                              ..\obj\yume_tpa_servo.o (__aeabi_d2iz)
+c:/softwares/coocox/gnu tools arm embedded/4.6 2012q2/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7e-m/fpu\libgcc.a(_arm_truncdfsf2.o)
+                              ..\obj\yume_mpu6050.o (__aeabi_d2f)
+C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libc.a(lib_a-errno.o)
+                              C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-w_acos.o) (__errno)
+C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libc.a(lib_a-strlen.o)
+                              ..\obj\yume_usart_comm.o (strlen)
+
+Allocating common symbols
+Common symbol       size              file
+
+leg                 0x4               ..\obj\yume_global_var.o
+b                   0x1               ..\obj\yume_global_var.o
+lcd                 0x10              ..\obj\yume_lcd.o
+DATA                0x4               ..\obj\yume_global_var.o
+GPIO_I2C            0x8               ..\obj\yume_mpu6050.o
+TIM_TimeBaseStructure
+                    0xc               ..\obj\yume_mpu6050.o
+M_red               0x4               ..\obj\yume_tcs3200.o
+blue                0x4               ..\obj\yume_tcs3200.o
+dummy_correct       0x48              ..\obj\yume_global_var.o
+Gyro_Mult           0x4               ..\obj\yume_global_var.o
+c4                  0x4               ..\obj\yume_global_var.o
+c2                  0x4               ..\obj\yume_global_var.o
+INFRARED            0x18              ..\obj\yume_global_var.o
+F_red               0x4               ..\obj\yume_tcs3200.o
+data1_lcd           0x10              ..\obj\yume_global_var.o
+CCR1_Val            0x4               ..\obj\yume_global_var.o
+M_white             0x4               ..\obj\yume_tcs3200.o
+F_green             0x4               ..\obj\yume_tcs3200.o
+phi                 0x18              ..\obj\yume_global_var.o
+F_blue              0x4               ..\obj\yume_tcs3200.o
+sudut_awal          0x48              ..\obj\yume_global_var.o
+ACCEL_DEG           0x4               ..\obj\yume_global_var.o
+nCount              0x4               ..\obj\yume_global_var.o
+index_servo         0x1               ..\obj\yume_global_var.o
+A_body              0x4               ..\obj\yume_global_var.o
+sudut_tahap1        0x48              ..\obj\yume_global_var.o
+green               0x4               ..\obj\yume_tcs3200.o
+IMU_Stat            0x64              ..\obj\yume_mpu6050.o
+red                 0x4               ..\obj\yume_tcs3200.o
+COLOUR_STAT         0x4               ..\obj\yume_global_var.o
+Lsem                0x4               ..\obj\yume_global_var.o
+z_A                 0x48              ..\obj\yume_global_var.o
+TRACER_FLAG         0x4               ..\obj\yume_global_var.o
+ADC_InitStructure   0x18              ..\obj\yume_mpu6050.o
+suhu_pixel          0x7               ..\obj\yume_global_var.o
+F_white             0x4               ..\obj\yume_tcs3200.o
+TCS3200_FRONT       0x1               ..\obj\yume_tcs3200.o
+Ping                0x24              ..\obj\yume_global_var.o
+I2C_InitStructure   0x10              ..\obj\yume_mpu6050.o
+tampil_adc          0x10              ..\obj\yume_global_var.o
+epsilon             0x18              ..\obj\yume_global_var.o
+PID_F_L             0x58              ..\obj\yume_mpu6050.o
+pixel               0xa               ..\obj\yume_global_var.o
+YUME_MPU6050        0x1c              ..\obj\yume_mpu6050.o
+Count               0x4               ..\obj\yume_global_var.o
+c1                  0x4               ..\obj\yume_global_var.o
+M_green             0x4               ..\obj\yume_tcs3200.o
+c                   0x1               ..\obj\yume_global_var.o
+v                   0x1               ..\obj\yume_global_var.o
+leg_next            0x18              ..\obj\yume_global_var.o
+M_TRACER            0x4               ..\obj\yume_global_var.o
+TIM_OCInitStructure
+                    0x14              ..\obj\yume_mpu6050.o
+sudut_target        0x48              ..\obj\yume_global_var.o
+A_leg               0x18              ..\obj\yume_global_var.o
+Acce_Mult           0x4               ..\obj\yume_global_var.o
+pembagi             0x4               ..\obj\yume_global_var.o
+F_TRACER            0x4               ..\obj\yume_global_var.o
+M_blue              0x4               ..\obj\yume_tcs3200.o
+data2_lcd           0x10              ..\obj\yume_global_var.o
+PID_DFL_R           0x58              ..\obj\yume_mpu6050.o
+y                   0x1               ..\obj\yume_global_var.o
+command_code        0x5               ..\obj\yume_global_var.o
+PID_F_R             0x58              ..\obj\yume_mpu6050.o
+tcs_stat            0x10              ..\obj\yume_tcs3200.o
+d                   0x1               ..\obj\yume_global_var.o
+PrescalerValue      0x4               ..\obj\yume_global_var.o
+GPIO_InitStructure  0x8               ..\obj\yume_lcd.o
+TCS3200_MID         0x1               ..\obj\yume_tcs3200.o
+USART_InitStructure
+                    0x10              ..\obj\yume_mpu6050.o
+UV_state            0x4               ..\obj\yume_global_var.o
+GYRO_DEG            0x4               ..\obj\yume_global_var.o
+temp_var            0x4               ..\obj\yume_global_var.o
+sudut_tahap2        0x48              ..\obj\yume_global_var.o
+rot_switch_mode     0x2               ..\obj\yume_global_var.o
+P_body              0x4               ..\obj\yume_global_var.o
+beta                0x18              ..\obj\yume_global_var.o
+buf                 0x10              ..\obj\yume_global_var.o
+y_A                 0x48              ..\obj\yume_global_var.o
+c3                  0x4               ..\obj\yume_global_var.o
+CCR2_Val            0x4               ..\obj\yume_global_var.o
+tcs3200             0x1               ..\obj\yume_global_var.o
+white               0x4               ..\obj\yume_tcs3200.o
+epsilon_body        0x4               ..\obj\yume_global_var.o
+a                   0x1               ..\obj\yume_global_var.o
+NVIC_InitStructure  0x4               ..\obj\yume_mpu6050.o
+P_leg               0x18              ..\obj\yume_global_var.o
+lambpsi             0x18              ..\obj\yume_global_var.o
+regs                0x4               ..\obj\yume_global_var.o
+CCR3_Val            0x4               ..\obj\yume_global_var.o
+ADCResult           0x4               ..\obj\yume_global_var.o
+ww                  0x18              ..\obj\yume_global_var.o
+ADC_CommonInitStructure
+                    0x10              ..\obj\yume_mpu6050.o
+temp_angle          0xc               ..\obj\yume_mpu6050.o
+index_bantu         0x1               ..\obj\yume_global_var.o
+PID_DFL_L           0x58              ..\obj\yume_mpu6050.o
+temp_var2           0x4               ..\obj\yume_global_var.o
+received_string     0x2710            ..\obj\yume_global_var.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 ..\obj\semihosting.o
+ .data          0x00000000        0x0 ..\obj\semihosting.o
+ .bss           0x00000000       0x14 ..\obj\semihosting.o
+ .text.SH_SendChar
+                0x00000000       0x9c ..\obj\semihosting.o
+ .text.SH_SendString
+                0x00000000       0x28 ..\obj\semihosting.o
+ .text.SH_GetChar
+                0x00000000       0x4c ..\obj\semihosting.o
+ .text          0x00000000        0x0 ..\obj\yume_lcd.o
+ .data          0x00000000        0x0 ..\obj\yume_lcd.o
+ .bss           0x00000000        0x0 ..\obj\yume_lcd.o
+ .text.lcd_save_customchar
+                0x00000000       0x54 ..\obj\yume_lcd.o
+ .text.lcd_write_customchar
+                0x00000000       0x20 ..\obj\yume_lcd.o
+ .text.lcd_home
+                0x00000000       0x18 ..\obj\yume_lcd.o
+ .text.lcd_cursor_on_blink_on
+                0x00000000       0x1c ..\obj\yume_lcd.o
+ .text.tampil   0x00000000       0xcc ..\obj\yume_lcd.o
+ .text.tampil1000
+                0x00000000      0x11c ..\obj\yume_lcd.o
+ .text          0x00000000        0x0 ..\obj\yume_mpu6050.o
+ .data          0x00000000        0x0 ..\obj\yume_mpu6050.o
+ .bss           0x00000000        0x8 ..\obj\yume_mpu6050.o
+ .text.Write_I2C2
+                0x00000000       0xfc ..\obj\yume_mpu6050.o
+ .text.Read_I2C2
+                0x00000000      0x198 ..\obj\yume_mpu6050.o
+ .text.MPU_6050_I2C_Init
+                0x00000000      0x11c ..\obj\yume_mpu6050.o
+ .text.MPU_6050_Init
+                0x00000000      0x120 ..\obj\yume_mpu6050.o
+ .text.Read_Gyro
+                0x00000000       0x90 ..\obj\yume_mpu6050.o
+ .text.Read_Accelerometer
+                0x00000000       0x90 ..\obj\yume_mpu6050.o
+ .text.yume_get_distance_x
+                0x00000000       0x78 ..\obj\yume_mpu6050.o
+ .text.Accel2mms
+                0x00000000       0x90 ..\obj\yume_mpu6050.o
+ .text.ComplementaryFilter
+                0x00000000      0x2f8 ..\obj\yume_mpu6050.o
+ .text          0x00000000        0x0 ..\obj\yume_rotary_switch.o
+ .data          0x00000000        0x0 ..\obj\yume_rotary_switch.o
+ .bss           0x00000000        0x0 ..\obj\yume_rotary_switch.o
+ .text          0x00000000        0x0 ..\obj\stm32f4xx_usart.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_usart.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_usart.o
+ .text.USART_DeInit
+                0x00000000      0x100 ..\obj\stm32f4xx_usart.o
+ .text.USART_StructInit
+                0x00000000       0x44 ..\obj\stm32f4xx_usart.o
+ .text.USART_ClockInit
+                0x00000000       0x54 ..\obj\stm32f4xx_usart.o
+ .text.USART_ClockStructInit
+                0x00000000       0x34 ..\obj\stm32f4xx_usart.o
+ .text.USART_SetPrescaler
+                0x00000000       0x38 ..\obj\stm32f4xx_usart.o
+ .text.USART_OverSampling8Cmd
+                0x00000000       0x48 ..\obj\stm32f4xx_usart.o
+ .text.USART_OneBitMethodCmd
+                0x00000000       0x40 ..\obj\stm32f4xx_usart.o
+ .text.USART_ReceiveData
+                0x00000000       0x24 ..\obj\stm32f4xx_usart.o
+ .text.USART_SetAddress
+                0x00000000       0x38 ..\obj\stm32f4xx_usart.o
+ .text.USART_ReceiverWakeUpCmd
+                0x00000000       0x40 ..\obj\stm32f4xx_usart.o
+ .text.USART_WakeUpConfig
+                0x00000000       0x38 ..\obj\stm32f4xx_usart.o
+ .text.USART_LINBreakDetectLengthConfig
+                0x00000000       0x38 ..\obj\stm32f4xx_usart.o
+ .text.USART_LINCmd
+                0x00000000       0x40 ..\obj\stm32f4xx_usart.o
+ .text.USART_SendBreak
+                0x00000000       0x24 ..\obj\stm32f4xx_usart.o
+ .text.USART_HalfDuplexCmd
+                0x00000000       0x40 ..\obj\stm32f4xx_usart.o
+ .text.USART_SetGuardTime
+                0x00000000       0x3c ..\obj\stm32f4xx_usart.o
+ .text.USART_SmartCardCmd
+                0x00000000       0x40 ..\obj\stm32f4xx_usart.o
+ .text.USART_SmartCardNACKCmd
+                0x00000000       0x40 ..\obj\stm32f4xx_usart.o
+ .text.USART_IrDAConfig
+                0x00000000       0x38 ..\obj\stm32f4xx_usart.o
+ .text.USART_IrDACmd
+                0x00000000       0x40 ..\obj\stm32f4xx_usart.o
+ .text.USART_DMACmd
+                0x00000000       0x48 ..\obj\stm32f4xx_usart.o
+ .text.USART_ClearFlag
+                0x00000000       0x24 ..\obj\stm32f4xx_usart.o
+ .text.USART_ClearITPendingBit
+                0x00000000       0x44 ..\obj\stm32f4xx_usart.o
+ .text          0x00000000        0x0 ..\obj\yume_usart_comm.o
+ .data          0x00000000        0x0 ..\obj\yume_usart_comm.o
+ .text.Command_Gait
+                0x00000000       0x48 ..\obj\yume_usart_comm.o
+ .text          0x00000000        0x0 ..\obj\startup_stm32f4xx.o
+ .data          0x00000000        0x0 ..\obj\startup_stm32f4xx.o
+ .bss           0x00000000        0x0 ..\obj\startup_stm32f4xx.o
+ .text          0x00000000        0x0 ..\obj\main.o
+ .data          0x00000000        0x0 ..\obj\main.o
+ .bss           0x00000000        0x0 ..\obj\main.o
+ .text          0x00000000        0x0 ..\obj\stm32f4xx_rcc.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_DeInit
+                0x00000000       0x84 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_HSEConfig
+                0x00000000       0x30 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_WaitForHSEStartUp
+                0x00000000       0x64 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_AdjustHSICalibrationValue
+                0x00000000       0x48 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_HSICmd
+                0x00000000       0x20 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_LSEConfig
+                0x00000000       0x60 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_LSICmd
+                0x00000000       0x20 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_PLLConfig
+                0x00000000       0x48 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_PLLCmd
+                0x00000000       0x20 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_PLLI2SConfig
+                0x00000000       0x30 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_PLLI2SCmd
+                0x00000000       0x20 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_ClockSecuritySystemCmd
+                0x00000000       0x20 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_MCO1Config
+                0x00000000       0x48 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_MCO2Config
+                0x00000000       0x48 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_SYSCLKConfig
+                0x00000000       0x40 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_GetSYSCLKSource
+                0x00000000       0x20 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_HCLKConfig
+                0x00000000       0x40 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_PCLK1Config
+                0x00000000       0x40 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_PCLK2Config
+                0x00000000       0x44 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_RTCCLKConfig
+                0x00000000       0x78 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_RTCCLKCmd
+                0x00000000       0x20 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_BackupResetCmd
+                0x00000000       0x20 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_I2SCLKConfig
+                0x00000000       0x20 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_AHB2PeriphClockCmd
+                0x00000000       0x58 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_AHB3PeriphClockCmd
+                0x00000000       0x58 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_AHB1PeriphResetCmd
+                0x00000000       0x58 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_AHB2PeriphResetCmd
+                0x00000000       0x58 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_AHB3PeriphResetCmd
+                0x00000000       0x58 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_APB1PeriphResetCmd
+                0x00000000       0x58 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_APB2PeriphResetCmd
+                0x00000000       0x58 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_AHB1PeriphClockLPModeCmd
+                0x00000000       0x58 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_AHB2PeriphClockLPModeCmd
+                0x00000000       0x58 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_AHB3PeriphClockLPModeCmd
+                0x00000000       0x58 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_APB1PeriphClockLPModeCmd
+                0x00000000       0x58 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_APB2PeriphClockLPModeCmd
+                0x00000000       0x58 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_ITConfig
+                0x00000000       0x60 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_GetFlagStatus
+                0x00000000       0x90 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_ClearFlag
+                0x00000000       0x24 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_GetITStatus
+                0x00000000       0x40 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_ClearITPendingBit
+                0x00000000       0x20 ..\obj\stm32f4xx_rcc.o
+ .text          0x00000000        0x0 ..\obj\yume_bldc_fan.o
+ .data          0x00000000        0x0 ..\obj\yume_bldc_fan.o
+ .bss           0x00000000        0x0 ..\obj\yume_bldc_fan.o
+ .text.YUME_BLDC_Fight
+                0x00000000       0x2c ..\obj\yume_bldc_fan.o
+ .text.YUME_Suppress_Fire
+                0x00000000        0xc ..\obj\yume_bldc_fan.o
+ .text.button_init
+                0x00000000       0x6c ..\obj\yume_bldc_fan.o
+ .text          0x00000000        0x0 ..\obj\stm32f4xx_adc.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_adc.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_adc.o
+ .text.ADC_DeInit
+                0x00000000       0x20 ..\obj\stm32f4xx_adc.o
+ .text.ADC_StructInit
+                0x00000000       0x4c ..\obj\stm32f4xx_adc.o
+ .text.ADC_CommonStructInit
+                0x00000000       0x34 ..\obj\stm32f4xx_adc.o
+ .text.ADC_AnalogWatchdogCmd
+                0x00000000       0x3c ..\obj\stm32f4xx_adc.o
+ .text.ADC_AnalogWatchdogThresholdsConfig
+                0x00000000       0x28 ..\obj\stm32f4xx_adc.o
+ .text.ADC_AnalogWatchdogSingleChannelConfig
+                0x00000000       0x38 ..\obj\stm32f4xx_adc.o
+ .text.ADC_TempSensorVrefintCmd
+                0x00000000       0x4c ..\obj\stm32f4xx_adc.o
+ .text.ADC_VBATCmd
+                0x00000000       0x4c ..\obj\stm32f4xx_adc.o
+ .text.ADC_GetSoftwareStartConvStatus
+                0x00000000       0x38 ..\obj\stm32f4xx_adc.o
+ .text.ADC_EOCOnEachRegularChannelCmd
+                0x00000000       0x38 ..\obj\stm32f4xx_adc.o
+ .text.ADC_DiscModeChannelCountConfig
+                0x00000000       0x4c ..\obj\stm32f4xx_adc.o
+ .text.ADC_DiscModeCmd
+                0x00000000       0x38 ..\obj\stm32f4xx_adc.o
+ .text.ADC_GetMultiModeConversionValue
+                0x00000000       0x18 ..\obj\stm32f4xx_adc.o
+ .text.ADC_DMACmd
+                0x00000000       0x38 ..\obj\stm32f4xx_adc.o
+ .text.ADC_DMARequestAfterLastTransferCmd
+                0x00000000       0x38 ..\obj\stm32f4xx_adc.o
+ .text.ADC_MultiModeDMARequestAfterLastTransferCmd
+                0x00000000       0x4c ..\obj\stm32f4xx_adc.o
+ .text.ADC_InjectedChannelConfig
+                0x00000000      0x144 ..\obj\stm32f4xx_adc.o
+ .text.ADC_InjectedSequencerLengthConfig
+                0x00000000       0x4c ..\obj\stm32f4xx_adc.o
+ .text.ADC_SetInjectedOffset
+                0x00000000       0x34 ..\obj\stm32f4xx_adc.o
+ .text.ADC_ExternalTrigInjectedConvConfig
+                0x00000000       0x38 ..\obj\stm32f4xx_adc.o
+ .text.ADC_ExternalTrigInjectedConvEdgeConfig
+                0x00000000       0x38 ..\obj\stm32f4xx_adc.o
+ .text.ADC_SoftwareStartInjectedConv
+                0x00000000       0x20 ..\obj\stm32f4xx_adc.o
+ .text.ADC_GetSoftwareStartInjectedConvCmdStatus
+                0x00000000       0x38 ..\obj\stm32f4xx_adc.o
+ .text.ADC_AutoInjectedConvCmd
+                0x00000000       0x38 ..\obj\stm32f4xx_adc.o
+ .text.ADC_InjectedDiscModeCmd
+                0x00000000       0x38 ..\obj\stm32f4xx_adc.o
+ .text.ADC_GetInjectedConversionValue
+                0x00000000       0x34 ..\obj\stm32f4xx_adc.o
+ .text.ADC_ITConfig
+                0x00000000       0x5c ..\obj\stm32f4xx_adc.o
+ .text.ADC_GetFlagStatus
+                0x00000000       0x3c ..\obj\stm32f4xx_adc.o
+ .text.ADC_ClearFlag
+                0x00000000       0x20 ..\obj\stm32f4xx_adc.o
+ .text.ADC_GetITStatus
+                0x00000000       0x70 ..\obj\stm32f4xx_adc.o
+ .text.ADC_ClearITPendingBit
+                0x00000000       0x30 ..\obj\stm32f4xx_adc.o
+ .text          0x00000000        0x0 ..\obj\printf.o
+ .bss           0x00000000        0x0 ..\obj\printf.o
+ .text.PrintChar
+                0x00000000       0x14 ..\obj\printf.o
+ .text.snprintf
+                0x00000000       0x34 ..\obj\printf.o
+ .rodata        0x00000000       0x24 ..\obj\printf.o
+ .text.vfprintf
+                0x00000000       0x6c ..\obj\printf.o
+ .text.vprintf  0x00000000       0x2c ..\obj\printf.o
+ .text.fprintf  0x00000000       0x30 ..\obj\printf.o
+ .text.printf   0x00000000       0x2c ..\obj\printf.o
+ .text.puts     0x00000000       0x28 ..\obj\printf.o
+ .text.fputc    0x00000000       0x4c ..\obj\printf.o
+ .text.fputs    0x00000000       0x50 ..\obj\printf.o
+ .text          0x00000000        0x0 ..\obj\yume_utilities.o
+ .data          0x00000000        0x0 ..\obj\yume_utilities.o
+ .bss           0x00000000        0x0 ..\obj\yume_utilities.o
+ .text          0x00000000        0x0 ..\obj\yume_systick_delay.o
+ .data          0x00000000        0x0 ..\obj\yume_systick_delay.o
+ .text          0x00000000        0x0 ..\obj\test.o
+ .data          0x00000000        0x0 ..\obj\test.o
+ .bss           0x00000000        0x0 ..\obj\test.o
+ .text          0x00000000        0x0 ..\obj\yume_tpa_servo.o
+ .data          0x00000000        0x0 ..\obj\yume_tpa_servo.o
+ .bss           0x00000000        0x0 ..\obj\yume_tpa_servo.o
+ .rodata        0x00000000        0xc ..\obj\yume_tpa_servo.o
+ .text.Write_I2C
+                0x00000000       0xfc ..\obj\yume_tpa_servo.o
+ .text.tpa_servo
+                0x00000000       0xac ..\obj\yume_tpa_servo.o
+ .text          0x00000000        0x0 ..\obj\yume_sound_activation.o
+ .data          0x00000000        0x0 ..\obj\yume_sound_activation.o
+ .bss           0x00000000        0x0 ..\obj\yume_sound_activation.o
+ .text          0x00000000        0x0 ..\obj\stm32f4xx_gpio.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_gpio.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_gpio.o
+ .text.GPIO_DeInit
+                0x00000000      0x178 ..\obj\stm32f4xx_gpio.o
+ .text.GPIO_StructInit
+                0x00000000       0x3c ..\obj\stm32f4xx_gpio.o
+ .text.GPIO_PinLockConfig
+                0x00000000       0x44 ..\obj\stm32f4xx_gpio.o
+ .text.GPIO_ReadInputData
+                0x00000000       0x1c ..\obj\stm32f4xx_gpio.o
+ .text.GPIO_ReadOutputDataBit
+                0x00000000       0x3c ..\obj\stm32f4xx_gpio.o
+ .text.GPIO_ReadOutputData
+                0x00000000       0x1c ..\obj\stm32f4xx_gpio.o
+ .text.GPIO_WriteBit
+                0x00000000       0x30 ..\obj\stm32f4xx_gpio.o
+ .text.GPIO_Write
+                0x00000000       0x1c ..\obj\stm32f4xx_gpio.o
+ .text.GPIO_ToggleBits
+                0x00000000       0x24 ..\obj\stm32f4xx_gpio.o
+ .data          0x00000000        0x0 ..\obj\sh_cmd.o
+ .bss           0x00000000        0x0 ..\obj\sh_cmd.o
+ .text          0x00000000        0x0 ..\obj\system_stm32f4xx.o
+ .bss           0x00000000        0x0 ..\obj\system_stm32f4xx.o
+ .text.SystemCoreClockUpdate
+                0x00000000      0x174 ..\obj\system_stm32f4xx.o
+ .text          0x00000000        0x0 ..\obj\syscalls.o
+ .data          0x00000000        0x0 ..\obj\syscalls.o
+ .bss           0x00000000        0x4 ..\obj\syscalls.o
+ .text._sbrk    0x00000000       0x5c ..\obj\syscalls.o
+ .text.link     0x00000000       0x1c ..\obj\syscalls.o
+ .text._close   0x00000000       0x18 ..\obj\syscalls.o
+ .text._fstat   0x00000000       0x24 ..\obj\syscalls.o
+ .text._isatty  0x00000000       0x18 ..\obj\syscalls.o
+ .text._lseek   0x00000000       0x1c ..\obj\syscalls.o
+ .text._read    0x00000000       0x1c ..\obj\syscalls.o
+ .text._write   0x00000000       0x1c ..\obj\syscalls.o
+ .text.abort    0x00000000        0x8 ..\obj\syscalls.o
+ .text          0x00000000        0x0 ..\obj\yume_tcs3200.o
+ .data          0x00000000        0x4 ..\obj\yume_tcs3200.o
+ .bss           0x00000000        0x0 ..\obj\yume_tcs3200.o
+ .text.YUME_TCS3200_Interrupt_Init
+                0x00000000       0x90 ..\obj\yume_tcs3200.o
+ .text.TIM12_IRQHandler
+                0x00000000       0x30 ..\obj\yume_tcs3200.o
+ .text.yume_display_colour
+                0x00000000       0x10 ..\obj\yume_tcs3200.o
+ .text.PushtoSend_TCS3200_Status
+                0x00000000       0x44 ..\obj\yume_tcs3200.o
+ .text          0x00000000        0x0 ..\obj\yume_algorithm.o
+ .bss           0x00000000        0x0 ..\obj\yume_algorithm.o
+ .text.YUME_Dimension_Check
+                0x00000000       0x30 ..\obj\yume_algorithm.o
+ .text.YUME_TCS3200_Check
+                0x00000000      0x154 ..\obj\yume_algorithm.o
+ .text.Zone_Check
+                0x00000000       0x54 ..\obj\yume_algorithm.o
+ .text.YUME_Success
+                0x00000000       0x1c ..\obj\yume_algorithm.o
+ .text.follow_tracer_right
+                0x00000000       0x9c ..\obj\yume_algorithm.o
+ .text.PID_follow_tracer_right
+                0x00000000      0x240 ..\obj\yume_algorithm.o
+ .text.folltracer_curve_right
+                0x00000000       0xe4 ..\obj\yume_algorithm.o
+ .text.folltracer_curve_left
+                0x00000000       0xe4 ..\obj\yume_algorithm.o
+ .text.follow_fire_right
+                0x00000000       0x7c ..\obj\yume_algorithm.o
+ .text.PID_follow_fire_right
+                0x00000000      0x214 ..\obj\yume_algorithm.o
+ .text.SearchFire_curve_right
+                0x00000000       0x6c ..\obj\yume_algorithm.o
+ .text.SearchFire_curve_left
+                0x00000000       0x6c ..\obj\yume_algorithm.o
+ .text.mov_curve_right_fire
+                0x00000000      0x998 ..\obj\yume_algorithm.o
+ .text.mov_curve_left_fire
+                0x00000000      0x9ec ..\obj\yume_algorithm.o
+ .text.mov_curve_right_trace
+                0x00000000      0x914 ..\obj\yume_algorithm.o
+ .text.mov_curve_left_trace
+                0x00000000      0x964 ..\obj\yume_algorithm.o
+ COMMON         0x00000000        0x0 ..\obj\yume_algorithm.o
+ .text          0x00000000        0x0 ..\obj\yume_global_var.o
+ .text          0x00000000        0x0 ..\obj\yume_infrared_proximity.o
+ .data          0x00000000        0x0 ..\obj\yume_infrared_proximity.o
+ .bss           0x00000000        0x0 ..\obj\yume_infrared_proximity.o
+ .rodata        0x00000000       0x30 ..\obj\yume_infrared_proximity.o
+ .text.Display_IR_Stat
+                0x00000000       0xf0 ..\obj\yume_infrared_proximity.o
+ .text          0x00000000        0x0 ..\obj\yume_pid_controller.o
+ .data          0x00000000        0x4 ..\obj\yume_pid_controller.o
+ .bss           0x00000000        0x0 ..\obj\yume_pid_controller.o
+ .rodata        0x00000000       0x38 ..\obj\yume_pid_controller.o
+ .text.PID_follow_right
+                0x00000000      0x2f8 ..\obj\yume_pid_controller.o
+ .text.follow_right
+                0x00000000       0xdc ..\obj\yume_pid_controller.o
+ .text.Centerize_PID_Calc
+                0x00000000      0x328 ..\obj\yume_pid_controller.o
+ .text          0x00000000        0x0 ..\obj\yume_user_interface.o
+ .data          0x00000000        0x0 ..\obj\yume_user_interface.o
+ .bss           0x00000000        0x0 ..\obj\yume_user_interface.o
+ .text          0x00000000        0x0 ..\obj\stm32f4xx_i2c.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_i2c.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_i2c.o
+ .text.I2C_DeInit
+                0x00000000       0x88 ..\obj\stm32f4xx_i2c.o
+ .text.I2C_StructInit
+                0x00000000       0x44 ..\obj\stm32f4xx_i2c.o
+ .text.I2C_OwnAddress2Config
+                0x00000000       0x44 ..\obj\stm32f4xx_i2c.o
+ .text.I2C_DualAddressCmd
+                0x00000000       0x40 ..\obj\stm32f4xx_i2c.o
+ .text.I2C_GeneralCallCmd
+                0x00000000       0x40 ..\obj\stm32f4xx_i2c.o
+ .text.I2C_SoftwareResetCmd
+                0x00000000       0x48 ..\obj\stm32f4xx_i2c.o
+ .text.I2C_StretchClockCmd
+                0x00000000       0x40 ..\obj\stm32f4xx_i2c.o
+ .text.I2C_FastModeDutyCycleConfig
+                0x00000000       0x40 ..\obj\stm32f4xx_i2c.o
+ .text.I2C_NACKPositionConfig
+                0x00000000       0x40 ..\obj\stm32f4xx_i2c.o
+ .text.I2C_SMBusAlertConfig
+                0x00000000       0x40 ..\obj\stm32f4xx_i2c.o
+ .text.I2C_ARPCmd
+                0x00000000       0x40 ..\obj\stm32f4xx_i2c.o
+ .text.I2C_TransmitPEC
+                0x00000000       0x40 ..\obj\stm32f4xx_i2c.o
+ .text.I2C_PECPositionConfig
+                0x00000000       0x40 ..\obj\stm32f4xx_i2c.o
+ .text.I2C_CalculatePEC
+                0x00000000       0x40 ..\obj\stm32f4xx_i2c.o
+ .text.I2C_GetPEC
+                0x00000000       0x24 ..\obj\stm32f4xx_i2c.o
+ .text.I2C_DMACmd
+                0x00000000       0x40 ..\obj\stm32f4xx_i2c.o
+ .text.I2C_DMALastTransferCmd
+                0x00000000       0x40 ..\obj\stm32f4xx_i2c.o
+ .text.I2C_ReadRegister
+                0x00000000       0x30 ..\obj\stm32f4xx_i2c.o
+ .text.I2C_ITConfig
+                0x00000000       0x48 ..\obj\stm32f4xx_i2c.o
+ .text.I2C_GetLastEvent
+                0x00000000       0x4c ..\obj\stm32f4xx_i2c.o
+ .text.I2C_ClearFlag
+                0x00000000       0x30 ..\obj\stm32f4xx_i2c.o
+ .text.I2C_GetITStatus
+                0x00000000       0x64 ..\obj\stm32f4xx_i2c.o
+ .text.I2C_ClearITPendingBit
+                0x00000000       0x30 ..\obj\stm32f4xx_i2c.o
+ .text          0x00000000        0x0 ..\obj\yume_hexapod_cmd.o
+ .data          0x00000000        0x8 ..\obj\yume_hexapod_cmd.o
+ .bss           0x00000000        0x0 ..\obj\yume_hexapod_cmd.o
+ .text.mov_search_fire
+                0x00000000      0x848 ..\obj\yume_hexapod_cmd.o
+ .text.mov_fwd_3cm
+                0x00000000      0x898 ..\obj\yume_hexapod_cmd.o
+ .text.mov_curve_right
+                0x00000000      0x8fc ..\obj\yume_hexapod_cmd.o
+ .text.mov_curve_left
+                0x00000000      0x94c ..\obj\yume_hexapod_cmd.o
+ .text.mov_askew_right_transition
+                0x00000000      0x5f0 ..\obj\yume_hexapod_cmd.o
+ .text.mov_askew_right
+                0x00000000      0x860 ..\obj\yume_hexapod_cmd.o
+ .text.mov_askew_left_transition
+                0x00000000      0x6dc ..\obj\yume_hexapod_cmd.o
+ .text.mov_askew_left
+                0x00000000      0x860 ..\obj\yume_hexapod_cmd.o
+ .text.mov_fwd_ripple_gait
+                0x00000000      0x7c8 ..\obj\yume_hexapod_cmd.o
+ .text.mov_bwd_ripple_gait
+                0x00000000      0xc20 ..\obj\yume_hexapod_cmd.o
+ .text.mov_fwd_wave_gait
+                0x00000000     0x1290 ..\obj\yume_hexapod_cmd.o
+ .text.mov_celebrate
+                0x00000000      0xab0 ..\obj\yume_hexapod_cmd.o
+ .text.mov_toggle_clearance
+                0x00000000      0x110 ..\obj\yume_hexapod_cmd.o
+ .text.PID_curve_right
+                0x00000000       0x54 ..\obj\yume_hexapod_cmd.o
+ .text.PID_curve_left
+                0x00000000       0x54 ..\obj\yume_hexapod_cmd.o
+ .text          0x00000000        0x0 ..\obj\misc.o
+ .data          0x00000000        0x0 ..\obj\misc.o
+ .bss           0x00000000        0x0 ..\obj\misc.o
+ .text.NVIC_PriorityGroupConfig
+                0x00000000       0x28 ..\obj\misc.o
+ .text.NVIC_SetVectorTable
+                0x00000000       0x2c ..\obj\misc.o
+ .text.NVIC_SystemLPConfig
+                0x00000000       0x58 ..\obj\misc.o
+ .text.SysTick_CLKSourceConfig
+                0x00000000       0x4c ..\obj\misc.o
+ .text          0x00000000        0x0 ..\obj\yume_ping_receiver.o
+ .data          0x00000000        0x0 ..\obj\yume_ping_receiver.o
+ .text.USART3_PutChar
+                0x00000000       0x40 ..\obj\yume_ping_receiver.o
+ .text.usart_puts
+                0x00000000       0x48 ..\obj\yume_ping_receiver.o
+ .text          0x00000000        0x0 ..\obj\yume_UV-TRON.o
+ .data          0x00000000        0x0 ..\obj\yume_UV-TRON.o
+ .bss           0x00000000        0x0 ..\obj\yume_UV-TRON.o
+ .rodata        0x00000000       0x10 ..\obj\yume_UV-TRON.o
+ .text.YUME_Display_UV_Stat
+                0x00000000       0x44 ..\obj\yume_UV-TRON.o
+ .text          0x00000000        0x0 ..\obj\yume_interrupt_monitor.o
+ .data          0x00000000        0x0 ..\obj\yume_interrupt_monitor.o
+ .bss           0x00000000        0x0 ..\obj\yume_interrupt_monitor.o
+ .text          0x00000000        0x0 ..\obj\stm32f4xx_tim.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_tim.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_tim.o
+ .text.TIM_DeInit
+                0x00000000      0x238 ..\obj\stm32f4xx_tim.o
+ .text.TIM_TimeBaseStructInit
+                0x00000000       0x3c ..\obj\stm32f4xx_tim.o
+ .text.TIM_PrescalerConfig
+                0x00000000       0x28 ..\obj\stm32f4xx_tim.o
+ .text.TIM_CounterModeConfig
+                0x00000000       0x38 ..\obj\stm32f4xx_tim.o
+ .text.TIM_SetCounter
+                0x00000000       0x1c ..\obj\stm32f4xx_tim.o
+ .text.TIM_SetAutoreload
+                0x00000000       0x1c ..\obj\stm32f4xx_tim.o
+ .text.TIM_GetCounter
+                0x00000000       0x18 ..\obj\stm32f4xx_tim.o
+ .text.TIM_GetPrescaler
+                0x00000000       0x1c ..\obj\stm32f4xx_tim.o
+ .text.TIM_UpdateDisableConfig
+                0x00000000       0x40 ..\obj\stm32f4xx_tim.o
+ .text.TIM_UpdateRequestConfig
+                0x00000000       0x40 ..\obj\stm32f4xx_tim.o
+ .text.TIM_ARRPreloadConfig
+                0x00000000       0x40 ..\obj\stm32f4xx_tim.o
+ .text.TIM_SelectOnePulseMode
+                0x00000000       0x38 ..\obj\stm32f4xx_tim.o
+ .text.TIM_SetClockDivision
+                0x00000000       0x38 ..\obj\stm32f4xx_tim.o
+ .text.TIM_OC4Init
+                0x00000000       0xe0 ..\obj\stm32f4xx_tim.o
+ .text.TIM_OCStructInit
+                0x00000000       0x54 ..\obj\stm32f4xx_tim.o
+ .text.TIM_SelectOCxM
+                0x00000000       0xc0 ..\obj\stm32f4xx_tim.o
+ .text.TIM_SetCompare1
+                0x00000000       0x1c ..\obj\stm32f4xx_tim.o
+ .text.TIM_SetCompare2
+                0x00000000       0x1c ..\obj\stm32f4xx_tim.o
+ .text.TIM_SetCompare3
+                0x00000000       0x1c ..\obj\stm32f4xx_tim.o
+ .text.TIM_SetCompare4
+                0x00000000       0x1c ..\obj\stm32f4xx_tim.o
+ .text.TIM_ForcedOC1Config
+                0x00000000       0x38 ..\obj\stm32f4xx_tim.o
+ .text.TIM_ForcedOC2Config
+                0x00000000       0x40 ..\obj\stm32f4xx_tim.o
+ .text.TIM_ForcedOC3Config
+                0x00000000       0x38 ..\obj\stm32f4xx_tim.o
+ .text.TIM_ForcedOC4Config
+                0x00000000       0x40 ..\obj\stm32f4xx_tim.o
+ .text.TIM_OC4PreloadConfig
+                0x00000000       0x40 ..\obj\stm32f4xx_tim.o
+ .text.TIM_OC1FastConfig
+                0x00000000       0x38 ..\obj\stm32f4xx_tim.o
+ .text.TIM_OC2FastConfig
+                0x00000000       0x40 ..\obj\stm32f4xx_tim.o
+ .text.TIM_OC3FastConfig
+                0x00000000       0x38 ..\obj\stm32f4xx_tim.o
+ .text.TIM_OC4FastConfig
+                0x00000000       0x40 ..\obj\stm32f4xx_tim.o
+ .text.TIM_ClearOC1Ref
+                0x00000000       0x38 ..\obj\stm32f4xx_tim.o
+ .text.TIM_ClearOC2Ref
+                0x00000000       0x44 ..\obj\stm32f4xx_tim.o
+ .text.TIM_ClearOC3Ref
+                0x00000000       0x38 ..\obj\stm32f4xx_tim.o
+ .text.TIM_ClearOC4Ref
+                0x00000000       0x44 ..\obj\stm32f4xx_tim.o
+ .text.TIM_OC1PolarityConfig
+                0x00000000       0x38 ..\obj\stm32f4xx_tim.o
+ .text.TIM_OC1NPolarityConfig
+                0x00000000       0x38 ..\obj\stm32f4xx_tim.o
+ .text.TIM_OC2PolarityConfig
+                0x00000000       0x40 ..\obj\stm32f4xx_tim.o
+ .text.TIM_OC2NPolarityConfig
+                0x00000000       0x40 ..\obj\stm32f4xx_tim.o
+ .text.TIM_OC3PolarityConfig
+                0x00000000       0x40 ..\obj\stm32f4xx_tim.o
+ .text.TIM_OC3NPolarityConfig
+                0x00000000       0x40 ..\obj\stm32f4xx_tim.o
+ .text.TIM_OC4PolarityConfig
+                0x00000000       0x40 ..\obj\stm32f4xx_tim.o
+ .text.TIM_CCxCmd
+                0x00000000       0x5c ..\obj\stm32f4xx_tim.o
+ .text.TIM_CCxNCmd
+                0x00000000       0x5c ..\obj\stm32f4xx_tim.o
+ .text.TIM_ICInit
+                0x00000000       0xa8 ..\obj\stm32f4xx_tim.o
+ .text.TIM_ICStructInit
+                0x00000000       0x3c ..\obj\stm32f4xx_tim.o
+ .text.TIM_PWMIConfig
+                0x00000000       0xc4 ..\obj\stm32f4xx_tim.o
+ .text.TIM_GetCapture1
+                0x00000000       0x18 ..\obj\stm32f4xx_tim.o
+ .text.TIM_GetCapture2
+                0x00000000       0x18 ..\obj\stm32f4xx_tim.o
+ .text.TIM_GetCapture3
+                0x00000000       0x18 ..\obj\stm32f4xx_tim.o
+ .text.TIM_GetCapture4
+                0x00000000       0x18 ..\obj\stm32f4xx_tim.o
+ .text.TIM_SetIC1Prescaler
+                0x00000000       0x38 ..\obj\stm32f4xx_tim.o
+ .text.TIM_SetIC2Prescaler
+                0x00000000       0x3c ..\obj\stm32f4xx_tim.o
+ .text.TIM_SetIC3Prescaler
+                0x00000000       0x38 ..\obj\stm32f4xx_tim.o
+ .text.TIM_SetIC4Prescaler
+                0x00000000       0x3c ..\obj\stm32f4xx_tim.o
+ .text.TIM_BDTRConfig
+                0x00000000       0x50 ..\obj\stm32f4xx_tim.o
+ .text.TIM_BDTRStructInit
+                0x00000000       0x4c ..\obj\stm32f4xx_tim.o
+ .text.TIM_CtrlPWMOutputs
+                0x00000000       0x50 ..\obj\stm32f4xx_tim.o
+ .text.TIM_SelectCOM
+                0x00000000       0x40 ..\obj\stm32f4xx_tim.o
+ .text.TIM_CCPreloadControl
+                0x00000000       0x40 ..\obj\stm32f4xx_tim.o
+ .text.TIM_GenerateEvent
+                0x00000000       0x1c ..\obj\stm32f4xx_tim.o
+ .text.TIM_GetFlagStatus
+                0x00000000       0x40 ..\obj\stm32f4xx_tim.o
+ .text.TIM_ClearFlag
+                0x00000000       0x24 ..\obj\stm32f4xx_tim.o
+ .text.TIM_DMAConfig
+                0x00000000       0x28 ..\obj\stm32f4xx_tim.o
+ .text.TIM_DMACmd
+                0x00000000       0x48 ..\obj\stm32f4xx_tim.o
+ .text.TIM_SelectCCDMA
+                0x00000000       0x40 ..\obj\stm32f4xx_tim.o
+ .text.TIM_InternalClockConfig
+                0x00000000       0x24 ..\obj\stm32f4xx_tim.o
+ .text.TIM_ITRxExternalClockConfig
+                0x00000000       0x30 ..\obj\stm32f4xx_tim.o
+ .text.TIM_TIxExternalClockConfig
+                0x00000000       0x58 ..\obj\stm32f4xx_tim.o
+ .text.TIM_ETRClockMode1Config
+                0x00000000       0x54 ..\obj\stm32f4xx_tim.o
+ .text.TIM_ETRClockMode2Config
+                0x00000000       0x34 ..\obj\stm32f4xx_tim.o
+ .text.TIM_SelectInputTrigger
+                0x00000000       0x38 ..\obj\stm32f4xx_tim.o
+ .text.TIM_SelectOutputTrigger
+                0x00000000       0x38 ..\obj\stm32f4xx_tim.o
+ .text.TIM_SelectSlaveMode
+                0x00000000       0x38 ..\obj\stm32f4xx_tim.o
+ .text.TIM_SelectMasterSlaveMode
+                0x00000000       0x38 ..\obj\stm32f4xx_tim.o
+ .text.TIM_ETRConfig
+                0x00000000       0x4c ..\obj\stm32f4xx_tim.o
+ .text.TIM_EncoderInterfaceConfig
+                0x00000000       0x94 ..\obj\stm32f4xx_tim.o
+ .text.TIM_SelectHallSensor
+                0x00000000       0x40 ..\obj\stm32f4xx_tim.o
+ .text.TIM_RemapConfig
+                0x00000000       0x20 ..\obj\stm32f4xx_tim.o
+ .text.TI1_Config
+                0x00000000       0x80 ..\obj\stm32f4xx_tim.o
+ .text.TI2_Config
+                0x00000000       0x9c ..\obj\stm32f4xx_tim.o
+ .text.TI3_Config
+                0x00000000       0x8c ..\obj\stm32f4xx_tim.o
+ .text.TI4_Config
+                0x00000000       0xa4 ..\obj\stm32f4xx_tim.o
+ .text          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_atan.o)
+ .data          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_atan.o)
+ .bss           0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_atan.o)
+ .text          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_cos.o)
+ .data          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_cos.o)
+ .bss           0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_cos.o)
+ .text          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_fabs.o)
+ .data          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_fabs.o)
+ .bss           0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_fabs.o)
+ .text          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_fmax.o)
+ .data          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_fmax.o)
+ .bss           0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_fmax.o)
+ .text          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_fpclassify.o)
+ .data          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_fpclassify.o)
+ .bss           0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_fpclassify.o)
+ .text          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_sin.o)
+ .data          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_sin.o)
+ .bss           0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_sin.o)
+ .text          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-w_acos.o)
+ .data          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-w_acos.o)
+ .bss           0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-w_acos.o)
+ .text          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-wf_atan2.o)
+ .data          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-wf_atan2.o)
+ .bss           0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-wf_atan2.o)
+ .text.atan2f   0x00000000        0x4 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-wf_atan2.o)
+ .text          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-e_acos.o)
+ .data          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-e_acos.o)
+ .bss           0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-e_acos.o)
+ .text          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-e_rem_pio2.o)
+ .data          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-e_rem_pio2.o)
+ .bss           0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-e_rem_pio2.o)
+ .text          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-e_sqrt.o)
+ .data          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-e_sqrt.o)
+ .bss           0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-e_sqrt.o)
+ .text          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-ef_atan2.o)
+ .data          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-ef_atan2.o)
+ .bss           0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-ef_atan2.o)
+ .text.__ieee754_atan2f
+                0x00000000      0x174 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-ef_atan2.o)
+ .text          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-k_cos.o)
+ .data          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-k_cos.o)
+ .bss           0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-k_cos.o)
+ .text          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-k_rem_pio2.o)
+ .data          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-k_rem_pio2.o)
+ .bss           0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-k_rem_pio2.o)
+ .text          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-k_sin.o)
+ .data          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-k_sin.o)
+ .bss           0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-k_sin.o)
+ .text          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_floor.o)
+ .data          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_floor.o)
+ .bss           0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_floor.o)
+ .text          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_lib_ver.o)
+ .data          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_lib_ver.o)
+ .bss           0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_lib_ver.o)
+ .text          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_matherr.o)
+ .data          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_matherr.o)
+ .bss           0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_matherr.o)
+ .text          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_nan.o)
+ .data          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_nan.o)
+ .bss           0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_nan.o)
+ .text          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_scalbn.o)
+ .data          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_scalbn.o)
+ .bss           0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_scalbn.o)
+ .text          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-sf_atan.o)
+ .data          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-sf_atan.o)
+ .bss           0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-sf_atan.o)
+ .text.atanf    0x00000000      0x1c0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-sf_atan.o)
+ .rodata.atanlo
+                0x00000000       0x10 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-sf_atan.o)
+ .rodata.atanhi
+                0x00000000       0x10 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-sf_atan.o)
+ .text          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-sf_fabs.o)
+ .data          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-sf_fabs.o)
+ .bss           0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-sf_fabs.o)
+ .text.fabsf    0x00000000       0x10 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-sf_fabs.o)
+ .text          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_copysign.o)
+ .data          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_copysign.o)
+ .bss           0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_copysign.o)
+ .data          0x00000000        0x0 c:/softwares/coocox/gnu tools arm embedded/4.6 2012q2/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 c:/softwares/coocox/gnu tools arm embedded/4.6 2012q2/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 c:/softwares/coocox/gnu tools arm embedded/4.6 2012q2/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7e-m/fpu\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 c:/softwares/coocox/gnu tools arm embedded/4.6 2012q2/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7e-m/fpu\libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000        0x0 c:/softwares/coocox/gnu tools arm embedded/4.6 2012q2/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x00000000        0x0 c:/softwares/coocox/gnu tools arm embedded/4.6 2012q2/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+ .data          0x00000000        0x0 c:/softwares/coocox/gnu tools arm embedded/4.6 2012q2/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7e-m/fpu\libgcc.a(_arm_fixdfsi.o)
+ .bss           0x00000000        0x0 c:/softwares/coocox/gnu tools arm embedded/4.6 2012q2/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7e-m/fpu\libgcc.a(_arm_fixdfsi.o)
+ .data          0x00000000        0x0 c:/softwares/coocox/gnu tools arm embedded/4.6 2012q2/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7e-m/fpu\libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x00000000        0x0 c:/softwares/coocox/gnu tools arm embedded/4.6 2012q2/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7e-m/fpu\libgcc.a(_arm_truncdfsf2.o)
+ .text          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libc.a(lib_a-errno.o)
+ .data          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libc.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libc.a(lib_a-errno.o)
+ .text          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libc.a(lib_a-strlen.o)
+ .data          0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libc.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libc.a(lib_a-strlen.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x08000000         0x00100000         xr
+ram              0x20000000         0x00020000         xrw
+ram1             0x10000000         0x00010000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+                0x20020000                _eram = 0x20020000
+
+.text           0x08000000    0x24730
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x188 ..\obj\startup_stm32f4xx.o
+                0x08000000                g_pfnVectors
+ *(.text*)
+ .text.RS_off   0x08000188       0x18 ..\obj\yume_lcd.o
+                0x08000188                RS_off
+ .text.RS_on    0x080001a0       0x18 ..\obj\yume_lcd.o
+                0x080001a0                RS_on
+ .text.EN_off   0x080001b8       0x18 ..\obj\yume_lcd.o
+                0x080001b8                EN_off
+ .text.EN_on    0x080001d0       0x18 ..\obj\yume_lcd.o
+                0x080001d0                EN_on
+ .text.D4_off   0x080001e8       0x18 ..\obj\yume_lcd.o
+                0x080001e8                D4_off
+ .text.D4_on    0x08000200       0x18 ..\obj\yume_lcd.o
+                0x08000200                D4_on
+ .text.D5_off   0x08000218       0x18 ..\obj\yume_lcd.o
+                0x08000218                D5_off
+ .text.D5_on    0x08000230       0x18 ..\obj\yume_lcd.o
+                0x08000230                D5_on
+ .text.D6_off   0x08000248       0x18 ..\obj\yume_lcd.o
+                0x08000248                D6_off
+ .text.D6_on    0x08000260       0x18 ..\obj\yume_lcd.o
+                0x08000260                D6_on
+ .text.D7_off   0x08000278       0x18 ..\obj\yume_lcd.o
+                0x08000278                D7_off
+ .text.D7_on    0x08000290       0x18 ..\obj\yume_lcd.o
+                0x08000290                D7_on
+ .text.lcd_write_nible
+                0x080002a8       0x6c ..\obj\yume_lcd.o
+                0x080002a8                lcd_write_nible
+ .text.lcd_write_byte
+                0x08000314       0x38 ..\obj\yume_lcd.o
+                0x08000314                lcd_write_byte
+ .text.lcd_write_cmd_nible
+                0x0800034c       0x20 ..\obj\yume_lcd.o
+                0x0800034c                lcd_write_cmd_nible
+ .text.lcd_write_data_byte
+                0x0800036c       0x20 ..\obj\yume_lcd.o
+                0x0800036c                lcd_write_data_byte
+ .text.lcd_write_cmd_byte
+                0x0800038c       0x34 ..\obj\yume_lcd.o
+                0x0800038c                lcd_write_cmd_byte
+ .text.lcd_init
+                0x080003c0       0xb4 ..\obj\yume_lcd.o
+                0x080003c0                lcd_init
+ .text.lcd_putch
+                0x08000474       0x1c ..\obj\yume_lcd.o
+                0x08000474                lcd_putch
+ .text.lcd_putstr
+                0x08000490       0x2c ..\obj\yume_lcd.o
+                0x08000490                lcd_putstr
+ .text.lcd_gotoxy
+                0x080004bc       0x70 ..\obj\yume_lcd.o
+                0x080004bc                lcd_gotoxy
+ .text.lcd_display_clear
+                0x0800052c       0x10 ..\obj\yume_lcd.o
+                0x0800052c                lcd_display_clear
+ .text.lcd_cursor_off_blink_off
+                0x0800053c       0x1c ..\obj\yume_lcd.o
+                0x0800053c                lcd_cursor_off_blink_off
+ .text.RotSwitch_Init
+                0x08000558      0x150 ..\obj\yume_rotary_switch.o
+                0x08000558                RotSwitch_Init
+ .text.RotSwitch_Sampling
+                0x080006a8      0x1b8 ..\obj\yume_rotary_switch.o
+                0x080006a8                RotSwitch_Sampling
+ .text.USART_Init
+                0x08000860      0x1ac ..\obj\stm32f4xx_usart.o
+                0x08000860                USART_Init
+ .text.USART_Cmd
+                0x08000a0c       0x40 ..\obj\stm32f4xx_usart.o
+                0x08000a0c                USART_Cmd
+ .text.USART_SendData
+                0x08000a4c       0x28 ..\obj\stm32f4xx_usart.o
+                0x08000a4c                USART_SendData
+ .text.USART_ITConfig
+                0x08000a74       0xa4 ..\obj\stm32f4xx_usart.o
+                0x08000a74                USART_ITConfig
+ .text.USART_GetFlagStatus
+                0x08000b18       0x40 ..\obj\stm32f4xx_usart.o
+                0x08000b18                USART_GetFlagStatus
+ .text.USART_GetITStatus
+                0x08000b58       0xc4 ..\obj\stm32f4xx_usart.o
+                0x08000b58                USART_GetITStatus
+ .text.USART1_Init
+                0x08000c1c      0x178 ..\obj\yume_usart_comm.o
+                0x08000c1c                USART1_Init
+ .text.USART2_Init
+                0x08000d94      0x178 ..\obj\yume_usart_comm.o
+                0x08000d94                USART2_Init
+ .text.USART1_IRQHandler
+                0x08000f0c      0x19c ..\obj\yume_usart_comm.o
+                0x08000f0c                USART1_IRQHandler
+ .text.Sendto_PC
+                0x080010a8       0x80 ..\obj\yume_usart_comm.o
+                0x080010a8                Sendto_PC
+ .text.Default_Reset_Handler
+                0x08001128       0x78 ..\obj\startup_stm32f4xx.o
+                0x08001128                Default_Reset_Handler
+                0x08001128                Reset_Handler
+ .text.Default_Handler
+                0x080011a0        0x8 ..\obj\startup_stm32f4xx.o
+                0x080011a0                RTC_Alarm_IRQHandler
+                0x080011a0                HASH_RNG_IRQHandler
+                0x080011a0                EXTI2_IRQHandler
+                0x080011a0                TIM8_CC_IRQHandler
+                0x080011a0                DebugMon_Handler
+                0x080011a0                TIM1_CC_IRQHandler
+                0x080011a0                DMA2_Stream5_IRQHandler
+                0x080011a0                DMA1_Stream5_IRQHandler
+                0x080011a0                PVD_IRQHandler
+                0x080011a0                SDIO_IRQHandler
+                0x080011a0                TAMP_STAMP_IRQHandler
+                0x080011a0                PendSV_Handler
+                0x080011a0                NMI_Handler
+                0x080011a0                CAN2_RX1_IRQHandler
+                0x080011a0                EXTI3_IRQHandler
+                0x080011a0                TIM8_TRG_COM_TIM14_IRQHandler
+                0x080011a0                TIM1_UP_TIM10_IRQHandler
+                0x080011a0                TIM8_UP_TIM13_IRQHandler
+                0x080011a0                I2C3_ER_IRQHandler
+                0x080011a0                EXTI0_IRQHandler
+                0x080011a0                I2C2_EV_IRQHandler
+                0x080011a0                DMA1_Stream2_IRQHandler
+                0x080011a0                CAN1_RX0_IRQHandler
+                0x080011a0                FPU_IRQHandler
+                0x080011a0                OTG_HS_WKUP_IRQHandler
+                0x080011a0                UsageFault_Handler
+                0x080011a0                CAN2_SCE_IRQHandler
+                0x080011a0                DMA2_Stream2_IRQHandler
+                0x080011a0                SPI1_IRQHandler
+                0x080011a0                TIM6_DAC_IRQHandler
+                0x080011a0                TIM1_BRK_TIM9_IRQHandler
+                0x080011a0                DCMI_IRQHandler
+                0x080011a0                CAN2_RX0_IRQHandler
+                0x080011a0                DMA2_Stream3_IRQHandler
+                0x080011a0                USART6_IRQHandler
+                0x080011a0                CRYP_IRQHandler
+                0x080011a0                CAN1_RX1_IRQHandler
+                0x080011a0                UART5_IRQHandler
+                0x080011a0                DMA2_Stream0_IRQHandler
+                0x080011a0                TIM4_IRQHandler
+                0x080011a0                I2C1_EV_IRQHandler
+                0x080011a0                DMA1_Stream6_IRQHandler
+                0x080011a0                DMA1_Stream1_IRQHandler
+                0x080011a0                UART4_IRQHandler
+                0x080011a0                RCC_IRQHandler
+                0x080011a0                TIM8_BRK_TIM12_IRQHandler
+                0x080011a0                EXTI15_10_IRQHandler
+                0x080011a0                ADC_IRQHandler
+                0x080011a0                DMA1_Stream7_IRQHandler
+                0x080011a0                TIM7_IRQHandler
+                0x080011a0                CAN2_TX_IRQHandler
+                0x080011a0                DMA2_Stream7_IRQHandler
+                0x080011a0                I2C3_EV_IRQHandler
+                0x080011a0                EXTI9_5_IRQHandler
+                0x080011a0                RTC_WKUP_IRQHandler
+                0x080011a0                ETH_WKUP_IRQHandler
+                0x080011a0                SPI2_IRQHandler
+                0x080011a0                OTG_HS_EP1_IN_IRQHandler
+                0x080011a0                MemManage_Handler
+                0x080011a0                DMA1_Stream0_IRQHandler
+                0x080011a0                CAN1_TX_IRQHandler
+                0x080011a0                SVC_Handler
+                0x080011a0                EXTI4_IRQHandler
+                0x080011a0                FSMC_IRQHandler
+                0x080011a0                ETH_IRQHandler
+                0x080011a0                OTG_HS_EP1_OUT_IRQHandler
+                0x080011a0                WWDG_IRQHandler
+                0x080011a0                TIM2_IRQHandler
+                0x080011a0                OTG_FS_WKUP_IRQHandler
+                0x080011a0                TIM1_TRG_COM_TIM11_IRQHandler
+                0x080011a0                OTG_HS_IRQHandler
+                0x080011a0                EXTI1_IRQHandler
+                0x080011a0                USART2_IRQHandler
+                0x080011a0                I2C2_ER_IRQHandler
+                0x080011a0                DMA2_Stream1_IRQHandler
+                0x080011a0                CAN1_SCE_IRQHandler
+                0x080011a0                FLASH_IRQHandler
+                0x080011a0                DMA2_Stream4_IRQHandler
+                0x080011a0                BusFault_Handler
+                0x080011a0                OTG_FS_IRQHandler
+                0x080011a0                SPI3_IRQHandler
+                0x080011a0                DMA1_Stream4_IRQHandler
+                0x080011a0                I2C1_ER_IRQHandler
+                0x080011a0                DMA2_Stream6_IRQHandler
+                0x080011a0                DMA1_Stream3_IRQHandler
+ .text.main     0x080011a8      0x318 ..\obj\main.o
+                0x080011a8                main
+ .text.YUME_Initialization
+                0x080014c0      0x2cc ..\obj\main.o
+                0x080014c0                YUME_Initialization
+ .text.RCC_GetClocksFreq
+                0x0800178c      0x1d0 ..\obj\stm32f4xx_rcc.o
+                0x0800178c                RCC_GetClocksFreq
+ .text.RCC_AHB1PeriphClockCmd
+                0x0800195c       0x58 ..\obj\stm32f4xx_rcc.o
+                0x0800195c                RCC_AHB1PeriphClockCmd
+ .text.RCC_APB1PeriphClockCmd
+                0x080019b4       0x58 ..\obj\stm32f4xx_rcc.o
+                0x080019b4                RCC_APB1PeriphClockCmd
+ .text.RCC_APB2PeriphClockCmd
+                0x08001a0c       0x58 ..\obj\stm32f4xx_rcc.o
+                0x08001a0c                RCC_APB2PeriphClockCmd
+ .text.YUME_BLDC_Init
+                0x08001a64       0x18 ..\obj\yume_bldc_fan.o
+                0x08001a64                YUME_BLDC_Init
+ .text.TIM4_PWM_Init
+                0x08001a7c      0x14c ..\obj\yume_bldc_fan.o
+                0x08001a7c                TIM4_PWM_Init
+ .text.ADC_Init
+                0x08001bc8       0xb8 ..\obj\stm32f4xx_adc.o
+                0x08001bc8                ADC_Init
+ .text.ADC_CommonInit
+                0x08001c80       0x5c ..\obj\stm32f4xx_adc.o
+                0x08001c80                ADC_CommonInit
+ .text.ADC_Cmd  0x08001cdc       0x38 ..\obj\stm32f4xx_adc.o
+                0x08001cdc                ADC_Cmd
+ .text.ADC_RegularChannelConfig
+                0x08001d14      0x1bc ..\obj\stm32f4xx_adc.o
+                0x08001d14                ADC_RegularChannelConfig
+ .text.ADC_SoftwareStartConv
+                0x08001ed0       0x20 ..\obj\stm32f4xx_adc.o
+                0x08001ed0                ADC_SoftwareStartConv
+ .text.ADC_ContinuousModeCmd
+                0x08001ef0       0x38 ..\obj\stm32f4xx_adc.o
+                0x08001ef0                ADC_ContinuousModeCmd
+ .text.ADC_GetConversionValue
+                0x08001f28       0x1c ..\obj\stm32f4xx_adc.o
+                0x08001f28                ADC_GetConversionValue
+ .text.PutChar  0x08001f44       0x24 ..\obj\printf.o
+                0x08001f44                PutChar
+ .text.PutString
+                0x08001f68       0x48 ..\obj\printf.o
+                0x08001f68                PutString
+ .text.PutUnsignedInt
+                0x08001fb0       0xbc ..\obj\printf.o
+                0x08001fb0                PutUnsignedInt
+ .text.PutSignedInt
+                0x0800206c      0x130 ..\obj\printf.o
+                0x0800206c                PutSignedInt
+ .text.PutHexa  0x0800219c       0xe8 ..\obj\printf.o
+                0x0800219c                PutHexa
+ .text.vsnprintf
+                0x08002284      0x2b0 ..\obj\printf.o
+                0x08002284                vsnprintf
+ .text.vsprintf
+                0x08002534       0x28 ..\obj\printf.o
+                0x08002534                vsprintf
+ .text.sprintf  0x0800255c       0x30 ..\obj\printf.o
+                0x0800255c                sprintf
+ .text.YUME_Initial_Setup
+                0x0800258c       0x58 ..\obj\yume_utilities.o
+                0x0800258c                YUME_Initial_Setup
+ .text.NVIC_SetPriority
+                0x080025e4       0x5c ..\obj\yume_systick_delay.o
+ .text.SysTick_Config
+                0x08002640       0x64 ..\obj\yume_systick_delay.o
+ .text.SysTick_Init
+                0x080026a4       0x30 ..\obj\yume_systick_delay.o
+                0x080026a4                SysTick_Init
+ .text.SysTick_Handler
+                0x080026d4        0xc ..\obj\yume_systick_delay.o
+                0x080026d4                SysTick_Handler
+ .text.TimeTick_Decrement
+                0x080026e0       0x30 ..\obj\yume_systick_delay.o
+                0x080026e0                TimeTick_Decrement
+ .text.delay_us
+                0x08002710       0x30 ..\obj\yume_systick_delay.o
+                0x08002710                delay_us
+ .text.delay_1ms
+                0x08002740       0x28 ..\obj\yume_systick_delay.o
+                0x08002740                delay_1ms
+ .text.delay_ms
+                0x08002768       0x30 ..\obj\yume_systick_delay.o
+                0x08002768                delay_ms
+ .text.YUME_Thermopile_Init
+                0x08002798        0xc ..\obj\yume_tpa_servo.o
+                0x08002798                YUME_Thermopile_Init
+ .text.Setup_I2C
+                0x080027a4      0x11c ..\obj\yume_tpa_servo.o
+                0x080027a4                Setup_I2C
+ .text.Read_I2C
+                0x080028c0      0x198 ..\obj\yume_tpa_servo.o
+                0x080028c0                Read_I2C
+ .text.YUME_TPA_Check
+                0x08002a58      0x434 ..\obj\yume_tpa_servo.o
+                0x08002a58                YUME_TPA_Check
+ .text.Get_TPA81
+                0x08002e8c       0x1c ..\obj\yume_tpa_servo.o
+                0x08002e8c                Get_TPA81
+ .text.YUME_Sound_Activation_Init
+                0x08002ea8       0x6c ..\obj\yume_sound_activation.o
+                0x08002ea8                YUME_Sound_Activation_Init
+ .text.YUME_Sound_Activation
+                0x08002f14       0xbc ..\obj\yume_sound_activation.o
+                0x08002f14                YUME_Sound_Activation
+ .text.GPIO_Init
+                0x08002fd0      0x154 ..\obj\stm32f4xx_gpio.o
+                0x08002fd0                GPIO_Init
+ .text.GPIO_ReadInputDataBit
+                0x08003124       0x3c ..\obj\stm32f4xx_gpio.o
+                0x08003124                GPIO_ReadInputDataBit
+ .text.GPIO_SetBits
+                0x08003160       0x1c ..\obj\stm32f4xx_gpio.o
+                0x08003160                GPIO_SetBits
+ .text.GPIO_ResetBits
+                0x0800317c       0x1c ..\obj\stm32f4xx_gpio.o
+                0x0800317c                GPIO_ResetBits
+ .text.GPIO_PinAFConfig
+                0x08003198       0xac ..\obj\stm32f4xx_gpio.o
+                0x08003198                GPIO_PinAFConfig
+ .text          0x08003244       0x28 ..\obj\sh_cmd.o
+                0x08003244                SH_DoCommand
+                0x08003256                HardFault_Handler
+ .text.SystemInit
+                0x0800326c       0xb0 ..\obj\system_stm32f4xx.o
+                0x0800326c                SystemInit
+ .text.SetSysClock
+                0x0800331c      0x188 ..\obj\system_stm32f4xx.o
+ .text.TCS3200_Pin_Config
+                0x080034a4      0x1a0 ..\obj\yume_tcs3200.o
+                0x080034a4                TCS3200_Pin_Config
+ .text.TIM2_Init
+                0x08003644       0x78 ..\obj\yume_tcs3200.o
+                0x08003644                TIM2_Init
+ .text.TCS3200_FRONT_Mode
+                0x080036bc       0xc0 ..\obj\yume_tcs3200.o
+                0x080036bc                TCS3200_FRONT_Mode
+ *fill*         0x0800377c        0x4 00
+ .text.FRONT_Colour_Read
+                0x08003780      0x170 ..\obj\yume_tcs3200.o
+                0x08003780                FRONT_Colour_Read
+ .text.FRONT_Detect_Colour
+                0x080038f0       0x78 ..\obj\yume_tcs3200.o
+                0x080038f0                FRONT_Detect_Colour
+ .text.FRONT_Sum_Colour
+                0x08003968      0x434 ..\obj\yume_tcs3200.o
+                0x08003968                FRONT_Sum_Colour
+ .text.TIM13_Init
+                0x08003d9c       0x7c ..\obj\yume_tcs3200.o
+                0x08003d9c                TIM13_Init
+ .text.TCS3200_MID_Mode
+                0x08003e18       0xc0 ..\obj\yume_tcs3200.o
+                0x08003e18                TCS3200_MID_Mode
+ .text.MID_Colour_Read
+                0x08003ed8      0x180 ..\obj\yume_tcs3200.o
+                0x08003ed8                MID_Colour_Read
+ .text.MID_Detect_Colour
+                0x08004058       0x78 ..\obj\yume_tcs3200.o
+                0x08004058                MID_Detect_Colour
+ .text.MID_Sum_Colour
+                0x080040d0      0x40c ..\obj\yume_tcs3200.o
+                0x080040d0                MID_Sum_Colour
+ .text.TCS3200_Init
+                0x080044dc       0x14 ..\obj\yume_tcs3200.o
+                0x080044dc                TCS3200_Init
+ .text.Send_TCS3200_Status
+                0x080044f0      0x2bc ..\obj\yume_tcs3200.o
+                0x080044f0                Send_TCS3200_Status
+ .text.YUME_Home_Detection
+                0x080047ac      0x134 ..\obj\yume_algorithm.o
+                0x080047ac                YUME_Home_Detection
+ .text.Escape_Home
+                0x080048e0       0xe4 ..\obj\yume_algorithm.o
+                0x080048e0                Escape_Home
+ .text.Evade_Wall
+                0x080049c4      0x120 ..\obj\yume_algorithm.o
+                0x080049c4                Evade_Wall
+ .text.YUME_Tracer_Check
+                0x08004ae4      0x570 ..\obj\yume_algorithm.o
+                0x08004ae4                YUME_Tracer_Check
+ .text.YUME_RedFighter
+                0x08005054      0x4f8 ..\obj\yume_algorithm.o
+                0x08005054                YUME_RedFighter
+ .text.YUME_BlueFighter
+                0x0800554c      0x854 ..\obj\yume_algorithm.o
+                0x0800554c                YUME_BlueFighter
+ .text.YUME_Found_Fire
+                0x08005da0      0x27c ..\obj\yume_algorithm.o
+                0x08005da0                YUME_Found_Fire
+ .text.YUME_Search_Fire
+                0x0800601c      0x7c4 ..\obj\yume_algorithm.o
+                0x0800601c                YUME_Search_Fire
+ .text.YUME_FireTracker
+                0x080067e0      0x7c4 ..\obj\yume_algorithm.o
+                0x080067e0                YUME_FireTracker
+ .text.YUME_FireFight
+                0x08006fa4      0x120 ..\obj\yume_algorithm.o
+                0x08006fa4                YUME_FireFight
+ .text.YUME_Extinguisher
+                0x080070c4      0x7b8 ..\obj\yume_algorithm.o
+                0x080070c4                YUME_Extinguisher
+ .text.Cat_Avoider
+                0x0800787c      0x3b0 ..\obj\yume_algorithm.o
+                0x0800787c                Cat_Avoider
+ .text.mov_fwd_trace
+                0x08007c2c      0x8ac ..\obj\yume_algorithm.o
+                0x08007c2c                mov_fwd_trace
+ .text.YUME_ROOM
+                0x080084d8      0x1f8 ..\obj\yume_algorithm.o
+                0x080084d8                YUME_ROOM
+ .text.Exit_No_Fire_Red
+                0x080086d0      0x178 ..\obj\yume_algorithm.o
+                0x080086d0                Exit_No_Fire_Red
+ .text.Exit_No_Fire_Blue
+                0x08008848      0x17c ..\obj\yume_algorithm.o
+                0x08008848                Exit_No_Fire_Blue
+ .text.YUME_CORRIDOR
+                0x080089c4      0x164 ..\obj\yume_algorithm.o
+                0x080089c4                YUME_CORRIDOR
+ .text.follow_right_new
+                0x08008b28      0x154 ..\obj\yume_algorithm.o
+                0x08008b28                follow_right_new
+ .text.PID_follow_right_new
+                0x08008c7c      0x540 ..\obj\yume_algorithm.o
+                0x08008c7c                PID_follow_right_new
+ .text.curve_right_new
+                0x080091bc      0xa58 ..\obj\yume_algorithm.o
+                0x080091bc                curve_right_new
+ .text.curve_left_new
+                0x08009c14      0xb08 ..\obj\yume_algorithm.o
+                0x08009c14                curve_left_new
+ .text.CandleCircle_Check
+                0x0800a71c       0xb8 ..\obj\yume_algorithm.o
+                0x0800a71c                CandleCircle_Check
+ .text.followfire_right_new
+                0x0800a7d4      0x104 ..\obj\yume_algorithm.o
+                0x0800a7d4                followfire_right_new
+ .text.PID_followfire_right_new
+                0x0800a8d8      0x5e4 ..\obj\yume_algorithm.o
+                0x0800a8d8                PID_followfire_right_new
+ .text.curve_right_fire_new
+                0x0800aebc      0xad8 ..\obj\yume_algorithm.o
+                0x0800aebc                curve_right_fire_new
+ .text.curve_left_fire_new
+                0x0800b994      0xb84 ..\obj\yume_algorithm.o
+                0x0800b994                curve_left_fire_new
+ .text.followtracer_left
+                0x0800c518      0x100 ..\obj\yume_algorithm.o
+                0x0800c518                followtracer_left
+ .text.PID_followtracer_left
+                0x0800c618      0x490 ..\obj\yume_algorithm.o
+                0x0800c618                PID_followtracer_left
+ .text.FollowExit_Right
+                0x0800caa8       0xe0 ..\obj\yume_algorithm.o
+                0x0800caa8                FollowExit_Right
+ .text.PID_FollowExit_Right
+                0x0800cb88      0x2a4 ..\obj\yume_algorithm.o
+                0x0800cb88                PID_FollowExit_Right
+ .text.FollowExit_Left
+                0x0800ce2c      0x114 ..\obj\yume_algorithm.o
+                0x0800ce2c                FollowExit_Left
+ .text.PID_FollowExit_Left
+                0x0800cf40      0x2dc ..\obj\yume_algorithm.o
+                0x0800cf40                PID_FollowExit_Left
+ .text.Mov_Fwd_Trace
+                0x0800d21c      0x8b0 ..\obj\yume_algorithm.o
+                0x0800d21c                Mov_Fwd_Trace
+ .text.mov_rotright_fire
+                0x0800dacc      0xc7c ..\obj\yume_algorithm.o
+                0x0800dacc                mov_rotright_fire
+ .text.mov_rotleft_fire
+                0x0800e748      0xc7c ..\obj\yume_algorithm.o
+                0x0800e748                mov_rotleft_fire
+ .text.Send_Location
+                0x0800f3c4       0xe4 ..\obj\yume_algorithm.o
+                0x0800f3c4                Send_Location
+ .text.follow_right_counter
+                0x0800f4a8       0x98 ..\obj\yume_algorithm.o
+                0x0800f4a8                follow_right_counter
+ .text.PID_follow_right_counter
+                0x0800f540      0x314 ..\obj\yume_algorithm.o
+                0x0800f540                PID_follow_right_counter
+ .text.follow_left_counter
+                0x0800f854       0xa0 ..\obj\yume_algorithm.o
+                0x0800f854                follow_left_counter
+ .text.PID_follow_left_counter
+                0x0800f8f4      0x314 ..\obj\yume_algorithm.o
+                0x0800f8f4                PID_follow_left_counter
+ .text.curve_right_counter
+                0x0800fc08      0x9e4 ..\obj\yume_algorithm.o
+                0x0800fc08                curve_right_counter
+ .text.curve_left_counter
+                0x080105ec      0xa90 ..\obj\yume_algorithm.o
+                0x080105ec                curve_left_counter
+ .text.curve_right_room
+                0x0801107c      0xa54 ..\obj\yume_algorithm.o
+                0x0801107c                curve_right_room
+ .text.curve_left_room
+                0x08011ad0      0xb04 ..\obj\yume_algorithm.o
+                0x08011ad0                curve_left_room
+ .text.FollowCarpet_Right
+                0x080125d4      0x1e4 ..\obj\yume_algorithm.o
+                0x080125d4                FollowCarpet_Right
+ .text.PID_FollowCarpet_Right
+                0x080127b8      0x758 ..\obj\yume_algorithm.o
+                0x080127b8                PID_FollowCarpet_Right
+ .text.FollowCarpet_Left
+                0x08012f10      0x1e8 ..\obj\yume_algorithm.o
+                0x08012f10                FollowCarpet_Left
+ .text.PID_FollowCarpet_Left
+                0x080130f8      0x770 ..\obj\yume_algorithm.o
+                0x080130f8                PID_FollowCarpet_Left
+ .text.Escape_Warzone
+                0x08013868      0x2b0 ..\obj\yume_algorithm.o
+                0x08013868                Escape_Warzone
+ .text.ReturnTo_Room
+                0x08013b18      0x2a4 ..\obj\yume_algorithm.o
+                0x08013b18                ReturnTo_Room
+ .text.Home_Detection_Blue
+                0x08013dbc      0x134 ..\obj\yume_algorithm.o
+                0x08013dbc                Home_Detection_Blue
+ .text.IR_Proximity_Init
+                0x08013ef0       0x6c ..\obj\yume_infrared_proximity.o
+                0x08013ef0                IR_Proximity_Init
+ .text.Get_IR   0x08013f5c       0x80 ..\obj\yume_infrared_proximity.o
+                0x08013f5c                Get_IR
+ .text.Get_IR_Right
+                0x08013fdc       0x24 ..\obj\yume_infrared_proximity.o
+                0x08013fdc                Get_IR_Right
+ .text.Get_IR_Left
+                0x08014000       0x24 ..\obj\yume_infrared_proximity.o
+                0x08014000                Get_IR_Left
+ .text.YUME_PID_Init
+                0x08014024      0x420 ..\obj\yume_pid_controller.o
+                0x08014024                YUME_PID_Init
+ .text.PID_Calc
+                0x08014444      0x328 ..\obj\yume_pid_controller.o
+                0x08014444                PID_Calc
+ .text.PID_Calc_LeftRule
+                0x0801476c      0x328 ..\obj\yume_pid_controller.o
+                0x0801476c                PID_Calc_LeftRule
+ .text.Button_Init
+                0x08014a94       0x6c ..\obj\yume_user_interface.o
+                0x08014a94                Button_Init
+ .text.Buzzer_Init
+                0x08014b00       0x6c ..\obj\yume_user_interface.o
+                0x08014b00                Buzzer_Init
+ .text.YUME_Buzz
+                0x08014b6c       0xcc ..\obj\yume_user_interface.o
+                0x08014b6c                YUME_Buzz
+ .text.LED_Init
+                0x08014c38       0x6c ..\obj\yume_user_interface.o
+                0x08014c38                LED_Init
+ .text.YUME_LED_Interrupt_Init
+                0x08014ca4       0x90 ..\obj\yume_user_interface.o
+                0x08014ca4                YUME_LED_Interrupt_Init
+ .text.TIM5_IRQHandler
+                0x08014d34      0x18c ..\obj\yume_user_interface.o
+                0x08014d34                TIM5_IRQHandler
+ .text.I2C_Init
+                0x08014ec0      0x1ac ..\obj\stm32f4xx_i2c.o
+                0x08014ec0                I2C_Init
+ .text.I2C_Cmd  0x0801506c       0x40 ..\obj\stm32f4xx_i2c.o
+                0x0801506c                I2C_Cmd
+ .text.I2C_GenerateSTART
+                0x080150ac       0x40 ..\obj\stm32f4xx_i2c.o
+                0x080150ac                I2C_GenerateSTART
+ .text.I2C_GenerateSTOP
+                0x080150ec       0x40 ..\obj\stm32f4xx_i2c.o
+                0x080150ec                I2C_GenerateSTOP
+ .text.I2C_Send7bitAddress
+                0x0801512c       0x3c ..\obj\stm32f4xx_i2c.o
+                0x0801512c                I2C_Send7bitAddress
+ .text.I2C_AcknowledgeConfig
+                0x08015168       0x40 ..\obj\stm32f4xx_i2c.o
+                0x08015168                I2C_AcknowledgeConfig
+ .text.I2C_SendData
+                0x080151a8       0x20 ..\obj\stm32f4xx_i2c.o
+                0x080151a8                I2C_SendData
+ .text.I2C_ReceiveData
+                0x080151c8       0x1c ..\obj\stm32f4xx_i2c.o
+                0x080151c8                I2C_ReceiveData
+ .text.I2C_CheckEvent
+                0x080151e4       0x70 ..\obj\stm32f4xx_i2c.o
+                0x080151e4                I2C_CheckEvent
+ .text.I2C_GetFlagStatus
+                0x08015254       0x78 ..\obj\stm32f4xx_i2c.o
+                0x08015254                I2C_GetFlagStatus
+ .text.YUME_Servo_Initialization
+                0x080152cc       0x14 ..\obj\yume_hexapod_cmd.o
+                0x080152cc                YUME_Servo_Initialization
+ .text.Servo_TIM_Init
+                0x080152e0       0x54 ..\obj\yume_hexapod_cmd.o
+                0x080152e0                Servo_TIM_Init
+ .text.Servo_Interrupt_Init
+                0x08015334      0x18c ..\obj\yume_hexapod_cmd.o
+                0x08015334                Servo_Interrupt_Init
+ .text.Servo_GPIO_Init
+                0x080154c0      0x204 ..\obj\yume_hexapod_cmd.o
+                0x080154c0                Servo_GPIO_Init
+ .text.TIM3_IRQHandler
+                0x080156c4      0x4b8 ..\obj\yume_hexapod_cmd.o
+                0x080156c4                TIM3_IRQHandler
+ *fill*         0x08015b7c        0x4 00
+ .text.generate_movement_data
+                0x08015b80      0x3e0 ..\obj\yume_hexapod_cmd.o
+                0x08015b80                generate_movement_data
+ .text.inv_kine
+                0x08015f60      0x4a0 ..\obj\yume_hexapod_cmd.o
+                0x08015f60                inv_kine
+ .text.servo_lin_func
+                0x08016400       0x7c ..\obj\yume_hexapod_cmd.o
+                0x08016400                servo_lin_func
+ .text.mov_static
+                0x0801647c      0x110 ..\obj\yume_hexapod_cmd.o
+                0x0801647c                mov_static
+ .text.mov_fwd_5cm
+                0x0801658c      0x894 ..\obj\yume_hexapod_cmd.o
+                0x0801658c                mov_fwd_5cm
+ .text.mov_bwd  0x08016e20      0x894 ..\obj\yume_hexapod_cmd.o
+                0x08016e20                mov_bwd
+ .text.mov_rot_right
+                0x080176b4      0xbcc ..\obj\yume_hexapod_cmd.o
+                0x080176b4                mov_rot_right
+ .text.mov_rot_left
+                0x08018280      0xbcc ..\obj\yume_hexapod_cmd.o
+                0x08018280                mov_rot_left
+ .text.mov_deflect_right
+                0x08018e4c      0x438 ..\obj\yume_hexapod_cmd.o
+                0x08018e4c                mov_deflect_right
+ .text.mov_deflect_left
+                0x08019284      0x438 ..\obj\yume_hexapod_cmd.o
+                0x08019284                mov_deflect_left
+ .text.YUME_Calibration
+                0x080196bc     0x602c ..\obj\yume_hexapod_cmd.o
+                0x080196bc                YUME_Calibration
+ .text.CMD_ACTUATE
+                0x0801f6e8       0x58 ..\obj\yume_hexapod_cmd.o
+                0x0801f6e8                CMD_ACTUATE
+ .text.NVIC_Init
+                0x0801f740       0xe4 ..\obj\misc.o
+                0x0801f740                NVIC_Init
+ .text.USART3_Init
+                0x0801f824      0x178 ..\obj\yume_ping_receiver.o
+                0x0801f824                USART3_Init
+ .text.USART3_IRQHandler
+                0x0801f99c      0x1d0 ..\obj\yume_ping_receiver.o
+                0x0801f99c                USART3_IRQHandler
+ .text.Display_Ping_Status
+                0x0801fb6c      0x164 ..\obj\yume_ping_receiver.o
+                0x0801fb6c                Display_Ping_Status
+ .text.Send_Ping_Status
+                0x0801fcd0       0xb4 ..\obj\yume_ping_receiver.o
+                0x0801fcd0                Send_Ping_Status
+ .text.YUME_UV_TRON_Init
+                0x0801fd84        0xc ..\obj\yume_UV-TRON.o
+                0x0801fd84                YUME_UV_TRON_Init
+ .text.UV_GPIO_Init
+                0x0801fd90       0x6c ..\obj\yume_UV-TRON.o
+                0x0801fd90                UV_GPIO_Init
+ .text.Get_UV   0x0801fdfc       0x48 ..\obj\yume_UV-TRON.o
+                0x0801fdfc                Get_UV
+ .text.TIM_TimeBaseInit
+                0x0801fe44       0xf4 ..\obj\stm32f4xx_tim.o
+                0x0801fe44                TIM_TimeBaseInit
+ .text.TIM_Cmd  0x0801ff38       0x40 ..\obj\stm32f4xx_tim.o
+                0x0801ff38                TIM_Cmd
+ .text.TIM_OC1Init
+                0x0801ff78       0xfc ..\obj\stm32f4xx_tim.o
+                0x0801ff78                TIM_OC1Init
+ .text.TIM_OC2Init
+                0x08020074      0x128 ..\obj\stm32f4xx_tim.o
+                0x08020074                TIM_OC2Init
+ .text.TIM_OC3Init
+                0x0802019c      0x120 ..\obj\stm32f4xx_tim.o
+                0x0802019c                TIM_OC3Init
+ .text.TIM_OC1PreloadConfig
+                0x080202bc       0x38 ..\obj\stm32f4xx_tim.o
+                0x080202bc                TIM_OC1PreloadConfig
+ .text.TIM_OC2PreloadConfig
+                0x080202f4       0x40 ..\obj\stm32f4xx_tim.o
+                0x080202f4                TIM_OC2PreloadConfig
+ .text.TIM_OC3PreloadConfig
+                0x08020334       0x38 ..\obj\stm32f4xx_tim.o
+                0x08020334                TIM_OC3PreloadConfig
+ .text.TIM_ITConfig
+                0x0802036c       0x48 ..\obj\stm32f4xx_tim.o
+                0x0802036c                TIM_ITConfig
+ .text.TIM_GetITStatus
+                0x080203b4       0x60 ..\obj\stm32f4xx_tim.o
+                0x080203b4                TIM_GetITStatus
+ .text.TIM_ClearITPendingBit
+                0x08020414       0x24 ..\obj\stm32f4xx_tim.o
+                0x08020414                TIM_ClearITPendingBit
+ .text.atan     0x08020438      0x388 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_atan.o)
+                0x08020438                atan
+ .text.cos      0x080207c0       0xb0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_cos.o)
+                0x080207c0                cos
+ .text.fabs     0x08020870       0x14 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_fabs.o)
+                0x08020870                fabs
+ .text.fmax     0x08020884       0x54 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_fmax.o)
+                0x08020884                fmax
+ .text.__fpclassifyd
+                0x080208d8       0x70 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_fpclassify.o)
+                0x080208d8                __fpclassifyd
+ .text.sin      0x08020948       0xb8 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_sin.o)
+                0x08020948                sin
+ .text.acos     0x08020a00       0xc0 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-w_acos.o)
+                0x08020a00                acos
+ .text.__ieee754_acos
+                0x08020ac0      0x508 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-e_acos.o)
+                0x08020ac0                __ieee754_acos
+ .text.__ieee754_rem_pio2
+                0x08020fc8      0x478 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-e_rem_pio2.o)
+                0x08020fc8                __ieee754_rem_pio2
+ .text.__ieee754_sqrt
+                0x08021440      0x1c4 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-e_sqrt.o)
+                0x08021440                __ieee754_sqrt
+ *fill*         0x08021604        0x4 00
+ .text.__kernel_cos
+                0x08021608      0x270 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-k_cos.o)
+                0x08021608                __kernel_cos
+ .text.__kernel_rem_pio2
+                0x08021878      0x808 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-k_rem_pio2.o)
+                0x08021878                __kernel_rem_pio2
+ .text.__kernel_sin
+                0x08022080      0x178 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-k_sin.o)
+                0x08022080                __kernel_sin
+ .text.floor    0x080221f8      0x150 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_floor.o)
+                0x080221f8                floor
+ .text.matherr  0x08022348        0x4 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_matherr.o)
+                0x08022348                matherr
+ *fill*         0x0802234c        0x4 00
+ .text.nan      0x08022350       0x10 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_nan.o)
+                0x08022350                nan
+ .text.scalbn   0x08022360      0x120 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_scalbn.o)
+                0x08022360                scalbn
+ .text.copysign
+                0x08022480       0x24 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_copysign.o)
+                0x08022480                copysign
+ .text          0x080224a4      0x370 c:/softwares/coocox/gnu tools arm embedded/4.6 2012q2/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+                0x080224a4                __aeabi_drsub
+                0x080224ac                __aeabi_dsub
+                0x080224ac                __subdf3
+                0x080224b0                __aeabi_dadd
+                0x080224b0                __adddf3
+                0x08022728                __floatunsidf
+                0x08022728                __aeabi_ui2d
+                0x08022748                __floatsidf
+                0x08022748                __aeabi_i2d
+                0x0802276c                __aeabi_f2d
+                0x0802276c                __extendsfdf2
+                0x080227a8                __floatundidf
+                0x080227a8                __aeabi_ul2d
+                0x080227b8                __floatdidf
+                0x080227b8                __aeabi_l2d
+ .text          0x08022814      0x424 c:/softwares/coocox/gnu tools arm embedded/4.6 2012q2/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7e-m/fpu\libgcc.a(_arm_muldivdf3.o)
+                0x08022814                __aeabi_dmul
+                0x08022814                __muldf3
+                0x08022a68                __divdf3
+                0x08022a68                __aeabi_ddiv
+ .text          0x08022c38      0x110 c:/softwares/coocox/gnu tools arm embedded/4.6 2012q2/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+                0x08022c38                __gtdf2
+                0x08022c38                __gedf2
+                0x08022c40                __ltdf2
+                0x08022c40                __ledf2
+                0x08022c48                __nedf2
+                0x08022c48                __eqdf2
+                0x08022c48                __cmpdf2
+                0x08022cc4                __aeabi_cdrcmple
+                0x08022cd4                __aeabi_cdcmpeq
+                0x08022cd4                __aeabi_cdcmple
+                0x08022ce4                __aeabi_dcmpeq
+                0x08022cf8                __aeabi_dcmplt
+                0x08022d0c                __aeabi_dcmple
+                0x08022d20                __aeabi_dcmpge
+                0x08022d34                __aeabi_dcmpgt
+ .text          0x08022d48       0x50 c:/softwares/coocox/gnu tools arm embedded/4.6 2012q2/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7e-m/fpu\libgcc.a(_arm_fixdfsi.o)
+                0x08022d48                __aeabi_d2iz
+                0x08022d48                __fixdfsi
+ .text          0x08022d98       0xa0 c:/softwares/coocox/gnu tools arm embedded/4.6 2012q2/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7e-m/fpu\libgcc.a(_arm_truncdfsf2.o)
+                0x08022d98                __truncdfsf2
+                0x08022d98                __aeabi_d2f
+ .text.__errno  0x08022e38        0xc C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libc.a(lib_a-errno.o)
+                0x08022e38                __errno
+ .text.strlen   0x08022e44       0x60 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libc.a(lib_a-strlen.o)
+                0x08022e44                strlen
+ *(.init)
+ *(.fini)
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata        0x08022ea4       0x70 ..\obj\yume_rotary_switch.o
+ .rodata        0x08022f14      0x1d0 ..\obj\main.o
+ .rodata        0x080230e4       0x10 ..\obj\yume_utilities.o
+ .rodata        0x080230f4       0x14 ..\obj\yume_sound_activation.o
+ .rodata        0x08023108      0x138 ..\obj\yume_tcs3200.o
+ .rodata        0x08023240      0xc44 ..\obj\yume_algorithm.o
+ .rodata        0x08023e84       0xe0 ..\obj\yume_global_var.o
+                0x08023e84                A_const
+                0x08023ecc                B_const
+                0x08023f14                leg_1
+                0x08023f2c                leg_norm
+                0x08023f44                alpha
+                0x08023f5c                Gyro_Sensitivity_1000s
+                0x08023f60                Gyro_Sensitivity_2000s
+ .rodata        0x08023f64      0x4ac ..\obj\yume_hexapod_cmd.o
+                0x08023f64                STATIC_LOW_CLEARANCE
+                0x08023f68                STATIC_MED_CLEARANCE
+                0x08023f6c                STATIC_HIGH_CLEARANCE
+                0x08023f70                SEARCH_FIRE
+                0x08023f74                FORWARD
+                0x08023f78                BACKWARD
+                0x08023f7c                ROTATE_RIGHT
+                0x08023f80                ROTATE_LEFT
+                0x08023f84                CURVE_RIGHT
+                0x08023f88                CURVE_LEFT
+                0x08023f8c                ASKEW_RIGHT
+                0x08023f90                ASKEW_LEFT
+                0x08023f94                FWD_RIPPLE
+                0x08023f98                FWD_WAVE
+ .rodata        0x08024410       0xfc ..\obj\yume_ping_receiver.o
+ *fill*         0x0802450c        0x4 00
+ .rodata.atanlo
+                0x08024510       0x20 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_atan.o)
+ .rodata.atanhi
+                0x08024530       0x20 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_atan.o)
+ .rodata.str1.4
+                0x08024550        0x8 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-w_acos.o)
+                                  0xc (size before relaxing)
+ .rodata.npio2_hw
+                0x08024558       0x80 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-e_rem_pio2.o)
+ .rodata.two_over_pi
+                0x080245d8      0x108 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-e_rem_pio2.o)
+ .rodata.init_jk
+                0x080246e0       0x10 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-k_rem_pio2.o)
+ .rodata.PIo2   0x080246f0       0x40 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-k_rem_pio2.o)
+ *(.eh_fram e*)
+
+.glue_7         0x08024730        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x08024730        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x08024730        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x08024730        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x08024730                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x08024730                __exidx_end = .
+                0x08024730                __etext = .
+                0x08024730                _sidata = __etext
+
+.data           0x20000000      0x584 load address 0x08024730
+                0x20000000                __data_start__ = .
+                0x20000000                _sdata = __data_start__
+ *(vtable)
+ *(.data*)
+ .data          0x20000000       0x10 ..\obj\stm32f4xx_rcc.o
+ .data          0x20000010      0x430 ..\obj\printf.o
+                0x20000010                r
+                0x20000438                _impure_ptr
+ .data          0x20000440       0x14 ..\obj\system_stm32f4xx.o
+                0x20000440                SystemCoreClock
+                0x20000444                AHBPrescTable
+ .data          0x20000454       0x18 ..\obj\yume_algorithm.o
+ *fill*         0x2000046c        0x4 00
+ .data          0x20000470      0x110 ..\obj\yume_global_var.o
+                0x20000470                COLOUR_BLACK
+                0x20000474                COLOUR_WHITE
+                0x20000478                COLOUR_RED
+                0x2000047c                COLOUR_BLUE
+                0x20000480                FRONT_TCS3200
+                0x20000484                MID_TCS3200
+                0x20000488                CANDLE_CIRCLE_DETECTED
+                0x2000048c                NORMAL
+                0x20000490                INVERSE
+                0x20000494                ZONE_BLACK
+                0x20000498                ZONE_RED
+                0x2000049c                ZONE_BLUE
+                0x200004a0                TRACER
+                0x200004a4                LOCATION_ROOM
+                0x200004a8                SHIFT_FOLLOW
+                0x200004ac                led_counter
+                0x200004ae                sensor_UV_front
+                0x200004af                sensor_UV_back
+                0x200004b0                COMMAND_FLAG_A
+                0x200004b4                COMMAND_FLAG_B
+                0x200004b8                COMMAND_COMPLETED
+                0x200004bc                COMMAND_NOT_RECEIVED
+                0x200004c0                sudut
+                0x20000508                correct
+                0x20000550                MPU6050_PWR_MGMT_1
+                0x20000554                MPU6050_GYRO_CONFIG
+                0x20000558                MPU6050_ACCEL_CONFIG
+                0x2000055c                Gyro_Sensitivity_500s
+                0x20000560                PI
+                0x20000568                GRAVITY
+                0x20000570                TEST
+                0x20000574                CALIBRATION_STAT
+                0x20000578                HOME_CIRCLE_DETECTED
+ .data.__fdlib_version
+                0x20000580        0x1 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_lib_ver.o)
+                0x20000580                __fdlib_version
+                0x20000584                . = ALIGN (0x4)
+ *fill*         0x20000581        0x3 00
+                0x20000584                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x20000584                PROVIDE (__preinit_array_end, .)
+                0x20000584                . = ALIGN (0x4)
+                0x20000584                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+                0x20000584                PROVIDE (__init_array_end, .)
+                0x20000584                . = ALIGN (0x4)
+                0x20000584                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+                0x20000584                PROVIDE (__fini_array_end, .)
+ *(.jcr*)
+                0x20000584                . = ALIGN (0x4)
+                0x20000584                __data_end__ = .
+                0x20000584                _edata = __data_end__
+
+.bss            0x20000584     0x2e7c load address 0x08024cb4
+                0x20000584                . = ALIGN (0x4)
+                0x20000584                __bss_start__ = .
+                0x20000584                _sbss = __bss_start__
+ *(.bss*)
+ .bss           0x20000584        0x1 ..\obj\yume_usart_comm.o
+ *fill*         0x20000585        0x3 00
+ .bss           0x20000588        0x4 ..\obj\yume_systick_delay.o
+ .bss           0x2000058c       0xb8 ..\obj\yume_global_var.o
+                0x2000058c                COLOUR_NONE
+                0x20000590                F_DETECTED_COLOUR
+                0x20000594                M_DETECTED_COLOUR
+                0x20000598                F_sum_red
+                0x2000059c                F_sum_blue
+                0x200005a0                F_sum_white
+                0x200005a4                F_THRESHOLD
+                0x200005a8                M_sum_red
+                0x200005ac                M_sum_blue
+                0x200005b0                M_sum_white
+                0x200005b4                M_THRESHOLD
+                0x200005b8                TRACER_STAT
+                0x200005bc                CANDLE_CIRCLE_FLAG
+                0x200005c0                INITIAL_ZONE
+                0x200005c4                ZONE
+                0x200005c8                YUME_CROSS_MODE
+                0x200005cc                START_MODE
+                0x200005d0                YUME_LOCATION
+                0x200005d8                LOCATION_CORRIDOR
+                0x200005dc                EXTINGUISHED_FIRE
+                0x200005e0                FIRE_PUTOFF
+                0x200005e4                CAT_FOUND
+                0x200005ec                CAT_SHIFT_FOLLOW
+                0x200005f0                NO_SHIFT
+                0x200005f4                YUME_Sound_Activate
+                0x200005f6                YUME_START
+                0x200005f8                UV_Lock
+                0x200005fc                led_off_counter
+                0x20000600                sudut_servo
+                0x20000604                sensor_UV_lock
+                0x20000605                fight
+                0x20000606                hitung
+                0x20000608                panas
+                0x2000060c                i
+                0x20000610                temp
+                0x20000614                suhu_ruang
+                0x20000618                FIRE
+                0x2000061c                USART_Count
+                0x20000620                USART_Bluetooth_Count
+                0x20000624                x
+                0x20000628                Gyro_Sensitivity_250s
+                0x2000062c                Accelerometer_Range
+                0x20000630                ROOM_COUNTER
+                0x20000634                WARZONE_FLAG
+                0x20000638                HOME_CIRCLE_FLAG
+                0x2000063c                firetrack_counter
+                0x20000640                YUME_FOUND_FIRE_OVERRIDE
+ .bss           0x20000644        0x1 ..\obj\yume_ping_receiver.o
+ *(COMMON)
+ *fill*         0x20000645        0x3 00
+ COMMON         0x20000648       0x18 ..\obj\yume_lcd.o
+                0x20000648                lcd
+                0x20000658                GPIO_InitStructure
+ COMMON         0x20000660      0x260 ..\obj\yume_mpu6050.o
+                0x20000660                GPIO_I2C
+                0x20000668                TIM_TimeBaseStructure
+                0x20000674                IMU_Stat
+                0x200006d8                ADC_InitStructure
+                0x200006f0                I2C_InitStructure
+                0x20000700                PID_F_L
+                0x20000758                YUME_MPU6050
+                0x20000774                TIM_OCInitStructure
+                0x20000788                PID_DFL_R
+                0x200007e0                PID_F_R
+                0x20000838                USART_InitStructure
+                0x20000848                NVIC_InitStructure
+                0x2000084c                ADC_CommonInitStructure
+                0x2000085c                temp_angle
+                0x20000868                PID_DFL_L
+ COMMON         0x200008c0       0x48 ..\obj\yume_tcs3200.o
+                0x200008c0                M_red
+                0x200008c4                blue
+                0x200008c8                F_red
+                0x200008cc                M_white
+                0x200008d0                F_green
+                0x200008d4                F_blue
+                0x200008d8                green
+                0x200008dc                red
+                0x200008e0                F_white
+                0x200008e4                TCS3200_FRONT
+                0x200008e8                M_green
+                0x200008ec                M_blue
+                0x200008f0                tcs_stat
+                0x20000900                TCS3200_MID
+                0x20000904                white
+ COMMON         0x20000908     0x2af8 ..\obj\yume_global_var.o
+                0x20000908                leg
+                0x2000090c                b
+                0x20000910                DATA
+                0x20000914                dummy_correct
+                0x2000095c                Gyro_Mult
+                0x20000960                c4
+                0x20000964                c2
+                0x20000968                INFRARED
+                0x20000980                data1_lcd
+                0x20000990                CCR1_Val
+                0x20000994                phi
+                0x200009ac                sudut_awal
+                0x200009f4                ACCEL_DEG
+                0x200009f8                nCount
+                0x200009fc                index_servo
+                0x20000a00                A_body
+                0x20000a04                sudut_tahap1
+                0x20000a4c                COLOUR_STAT
+                0x20000a50                Lsem
+                0x20000a54                z_A
+                0x20000a9c                TRACER_FLAG
+                0x20000aa0                suhu_pixel
+                0x20000aa8                Ping
+                0x20000acc                tampil_adc
+                0x20000adc                epsilon
+                0x20000af4                pixel
+                0x20000b00                Count
+                0x20000b04                c1
+                0x20000b08                c
+                0x20000b09                v
+                0x20000b0c                leg_next
+                0x20000b24                M_TRACER
+                0x20000b28                sudut_target
+                0x20000b70                A_leg
+                0x20000b88                Acce_Mult
+                0x20000b8c                pembagi
+                0x20000b90                F_TRACER
+                0x20000b94                data2_lcd
+                0x20000ba4                y
+                0x20000ba8                command_code
+                0x20000bad                d
+                0x20000bb0                PrescalerValue
+                0x20000bb4                UV_state
+                0x20000bb8                GYRO_DEG
+                0x20000bbc                temp_var
+                0x20000bc0                sudut_tahap2
+                0x20000c08                rot_switch_mode
+                0x20000c0c                P_body
+                0x20000c10                beta
+                0x20000c28                buf
+                0x20000c38                y_A
+                0x20000c80                c3
+                0x20000c84                CCR2_Val
+                0x20000c88                tcs3200
+                0x20000c8c                epsilon_body
+                0x20000c90                a
+                0x20000c94                P_leg
+                0x20000cac                lambpsi
+                0x20000cc4                regs
+                0x20000cc8                CCR3_Val
+                0x20000ccc                ADCResult
+                0x20000cd0                ww
+                0x20000ce8                index_bantu
+                0x20000cec                temp_var2
+                0x20000cf0                received_string
+                0x20003400                . = ALIGN (0x4)
+                0x20003400                __bss_end__ = .
+                0x20003400                _ebss = __bss_end__
+
+.heap           0x20003400        0x0
+                0x20003400                __end__ = .
+                0x20003400                _end = __end__
+                0x20003400                end = __end__
+ *(.heap*)
+                0x20003400                __HeapLimit = .
+
+.co_stack       0x20003400      0x800 load address 0x08027b30
+                0x20003400                . = ALIGN (0x8)
+ *(.co_stack .co_stack.*)
+ .co_stack      0x20003400      0x800 ..\obj\startup_stm32f4xx.o
+                0x20003400                pulStack
+                0x20020000                __StackTop = (ORIGIN (ram) + 0x20000)
+                0x2001f800                __StackLimit = (__StackTop - SIZEOF (.co_stack))
+                0x20020000                PROVIDE (__stack, __StackTop)
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region ram  overflowed with stack)
+LOAD ..\obj\semihosting.o
+LOAD ..\obj\yume_lcd.o
+LOAD ..\obj\yume_mpu6050.o
+LOAD ..\obj\yume_rotary_switch.o
+LOAD ..\obj\stm32f4xx_usart.o
+LOAD ..\obj\yume_usart_comm.o
+LOAD ..\obj\startup_stm32f4xx.o
+LOAD ..\obj\main.o
+LOAD ..\obj\stm32f4xx_rcc.o
+LOAD ..\obj\yume_bldc_fan.o
+LOAD ..\obj\stm32f4xx_adc.o
+LOAD ..\obj\printf.o
+LOAD ..\obj\yume_utilities.o
+LOAD ..\obj\yume_systick_delay.o
+LOAD ..\obj\test.o
+LOAD ..\obj\yume_tpa_servo.o
+LOAD ..\obj\yume_sound_activation.o
+LOAD ..\obj\stm32f4xx_gpio.o
+LOAD ..\obj\sh_cmd.o
+LOAD ..\obj\system_stm32f4xx.o
+LOAD ..\obj\syscalls.o
+LOAD ..\obj\yume_tcs3200.o
+LOAD ..\obj\yume_algorithm.o
+LOAD ..\obj\yume_global_var.o
+LOAD ..\obj\yume_infrared_proximity.o
+LOAD ..\obj\yume_pid_controller.o
+LOAD ..\obj\yume_user_interface.o
+LOAD ..\obj\stm32f4xx_i2c.o
+LOAD ..\obj\yume_hexapod_cmd.o
+LOAD ..\obj\misc.o
+LOAD ..\obj\yume_ping_receiver.o
+LOAD ..\obj\yume_UV-TRON.o
+LOAD ..\obj\yume_interrupt_monitor.o
+LOAD ..\obj\stm32f4xx_tim.o
+LOAD C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a
+LOAD c:/softwares/coocox/gnu tools arm embedded/4.6 2012q2/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7e-m/fpu\libgcc.a
+LOAD C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libc.a
+START GROUP
+LOAD c:/softwares/coocox/gnu tools arm embedded/4.6 2012q2/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7e-m/fpu\libgcc.a
+LOAD C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libg.a
+LOAD C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libc.a
+END GROUP
+OUTPUT(YUME_Main_Controller_Ver_2.0.elf elf32-littlearm)
+
+.debug_info     0x00000000    0x17b8a
+ .debug_info    0x00000000      0x134 ..\obj\semihosting.o
+ .debug_info    0x00000134      0x6b4 ..\obj\yume_lcd.o
+ .debug_info    0x000007e8      0xcf2 ..\obj\yume_mpu6050.o
+ .debug_info    0x000014da      0xaed ..\obj\yume_rotary_switch.o
+ .debug_info    0x00001fc7      0xa4f ..\obj\stm32f4xx_usart.o
+ .debug_info    0x00002a16      0xd9c ..\obj\yume_usart_comm.o
+ .debug_info    0x000037b2      0x147 ..\obj\startup_stm32f4xx.o
+ .debug_info    0x000038f9      0xc86 ..\obj\main.o
+ .debug_info    0x0000457f      0xd24 ..\obj\stm32f4xx_rcc.o
+ .debug_info    0x000052a3      0xafc ..\obj\yume_bldc_fan.o
+ .debug_info    0x00005d9f      0xcf5 ..\obj\stm32f4xx_adc.o
+ .debug_info    0x00006a94      0xf66 ..\obj\printf.o
+ .debug_info    0x000079fa      0x7a6 ..\obj\yume_utilities.o
+ .debug_info    0x000081a0      0x794 ..\obj\yume_systick_delay.o
+ .debug_info    0x00008934      0xbce ..\obj\yume_tpa_servo.o
+ .debug_info    0x00009502      0x8b4 ..\obj\yume_sound_activation.o
+ .debug_info    0x00009db6      0x639 ..\obj\stm32f4xx_gpio.o
+ .debug_info    0x0000a3ef      0x130 ..\obj\sh_cmd.o
+ .debug_info    0x0000a51f      0x61d ..\obj\system_stm32f4xx.o
+ .debug_info    0x0000ab3c      0x440 ..\obj\syscalls.o
+ .debug_info    0x0000af7c     0x13bd ..\obj\yume_tcs3200.o
+ .debug_info    0x0000c339     0x20f1 ..\obj\yume_algorithm.o
+ .debug_info    0x0000e42a     0x12f7 ..\obj\yume_global_var.o
+ .debug_info    0x0000f721      0x8e4 ..\obj\yume_infrared_proximity.o
+ .debug_info    0x00010005      0x9cb ..\obj\yume_pid_controller.o
+ .debug_info    0x000109d0      0xb9f ..\obj\yume_user_interface.o
+ .debug_info    0x0001156f      0xb91 ..\obj\stm32f4xx_i2c.o
+ .debug_info    0x00012100     0x194e ..\obj\yume_hexapod_cmd.o
+ .debug_info    0x00013a4e      0x594 ..\obj\misc.o
+ .debug_info    0x00013fe2      0xd35 ..\obj\yume_ping_receiver.o
+ .debug_info    0x00014d17      0x8de ..\obj\yume_UV-TRON.o
+ .debug_info    0x000155f5      0x76d ..\obj\yume_interrupt_monitor.o
+ .debug_info    0x00015d62     0x1e28 ..\obj\stm32f4xx_tim.o
+
+.debug_abbrev   0x00000000     0x2f71
+ .debug_abbrev  0x00000000       0xa7 ..\obj\semihosting.o
+ .debug_abbrev  0x000000a7      0x1ac ..\obj\yume_lcd.o
+ .debug_abbrev  0x00000253      0x1ee ..\obj\yume_mpu6050.o
+ .debug_abbrev  0x00000441      0x177 ..\obj\yume_rotary_switch.o
+ .debug_abbrev  0x000005b8      0x14e ..\obj\stm32f4xx_usart.o
+ .debug_abbrev  0x00000706      0x1cd ..\obj\yume_usart_comm.o
+ .debug_abbrev  0x000008d3       0xac ..\obj\startup_stm32f4xx.o
+ .debug_abbrev  0x0000097f      0x1b7 ..\obj\main.o
+ .debug_abbrev  0x00000b36      0x1b7 ..\obj\stm32f4xx_rcc.o
+ .debug_abbrev  0x00000ced      0x140 ..\obj\yume_bldc_fan.o
+ .debug_abbrev  0x00000e2d      0x189 ..\obj\stm32f4xx_adc.o
+ .debug_abbrev  0x00000fb6      0x25f ..\obj\printf.o
+ .debug_abbrev  0x00001215      0x126 ..\obj\yume_utilities.o
+ .debug_abbrev  0x0000133b      0x171 ..\obj\yume_systick_delay.o
+ .debug_abbrev  0x000014ac        0x1 ..\obj\test.o
+ .debug_abbrev  0x000014ad      0x1f4 ..\obj\yume_tpa_servo.o
+ .debug_abbrev  0x000016a1      0x151 ..\obj\yume_sound_activation.o
+ .debug_abbrev  0x000017f2      0x182 ..\obj\stm32f4xx_gpio.o
+ .debug_abbrev  0x00001974       0x14 ..\obj\sh_cmd.o
+ .debug_abbrev  0x00001988      0x140 ..\obj\system_stm32f4xx.o
+ .debug_abbrev  0x00001ac8       0xde ..\obj\syscalls.o
+ .debug_abbrev  0x00001ba6      0x209 ..\obj\yume_tcs3200.o
+ .debug_abbrev  0x00001daf      0x243 ..\obj\yume_algorithm.o
+ .debug_abbrev  0x00001ff2      0x11f ..\obj\yume_global_var.o
+ .debug_abbrev  0x00002111      0x156 ..\obj\yume_infrared_proximity.o
+ .debug_abbrev  0x00002267      0x16d ..\obj\yume_pid_controller.o
+ .debug_abbrev  0x000023d4      0x15e ..\obj\yume_user_interface.o
+ .debug_abbrev  0x00002532      0x15d ..\obj\stm32f4xx_i2c.o
+ .debug_abbrev  0x0000268f      0x24d ..\obj\yume_hexapod_cmd.o
+ .debug_abbrev  0x000028dc      0x126 ..\obj\misc.o
+ .debug_abbrev  0x00002a02      0x1ce ..\obj\yume_ping_receiver.o
+ .debug_abbrev  0x00002bd0      0x151 ..\obj\yume_UV-TRON.o
+ .debug_abbrev  0x00002d21       0xed ..\obj\yume_interrupt_monitor.o
+ .debug_abbrev  0x00002e0e      0x163 ..\obj\stm32f4xx_tim.o
+
+.debug_loc      0x00000000     0x68b8
+ .debug_loc     0x00000000       0xa8 ..\obj\semihosting.o
+ .debug_loc     0x000000a8      0x58c ..\obj\yume_lcd.o
+ .debug_loc     0x00000634      0x1e0 ..\obj\yume_mpu6050.o
+ .debug_loc     0x00000814       0x64 ..\obj\yume_rotary_switch.o
+ .debug_loc     0x00000878      0x658 ..\obj\stm32f4xx_usart.o
+ .debug_loc     0x00000ed0      0x126 ..\obj\yume_usart_comm.o
+ .debug_loc     0x00000ff6       0x64 ..\obj\startup_stm32f4xx.o
+ .debug_loc     0x0000105a       0x58 ..\obj\main.o
+ .debug_loc     0x000010b2      0x97c ..\obj\stm32f4xx_rcc.o
+ .debug_loc     0x00001a2e       0xdc ..\obj\yume_bldc_fan.o
+ .debug_loc     0x00001b0a      0x838 ..\obj\stm32f4xx_adc.o
+ .debug_loc     0x00002342      0x3ea ..\obj\printf.o
+ .debug_loc     0x0000272c       0x38 ..\obj\yume_utilities.o
+ .debug_loc     0x00002764      0x190 ..\obj\yume_systick_delay.o
+ .debug_loc     0x000028f4      0x164 ..\obj\yume_tpa_servo.o
+ .debug_loc     0x00002a58       0x58 ..\obj\yume_sound_activation.o
+ .debug_loc     0x00002ab0      0x310 ..\obj\stm32f4xx_gpio.o
+ .debug_loc     0x00002dc0       0x9c ..\obj\system_stm32f4xx.o
+ .debug_loc     0x00002e5c      0x1ec ..\obj\syscalls.o
+ .debug_loc     0x00003048      0x358 ..\obj\yume_tcs3200.o
+ .debug_loc     0x000033a0      0xd40 ..\obj\yume_algorithm.o
+ .debug_loc     0x000040e0       0xdc ..\obj\yume_infrared_proximity.o
+ .debug_loc     0x000041bc      0x108 ..\obj\yume_pid_controller.o
+ .debug_loc     0x000042c4      0x120 ..\obj\yume_user_interface.o
+ .debug_loc     0x000043e4      0x738 ..\obj\stm32f4xx_i2c.o
+ .debug_loc     0x00004b1c      0x67c ..\obj\yume_hexapod_cmd.o
+ .debug_loc     0x00005198      0x118 ..\obj\misc.o
+ .debug_loc     0x000052b0      0x138 ..\obj\yume_ping_receiver.o
+ .debug_loc     0x000053e8       0xb0 ..\obj\yume_UV-TRON.o
+ .debug_loc     0x00005498     0x1420 ..\obj\stm32f4xx_tim.o
+
+.debug_aranges  0x00000000     0x12a0
+ .debug_aranges
+                0x00000000       0x30 ..\obj\semihosting.o
+ .debug_aranges
+                0x00000030      0x100 ..\obj\yume_lcd.o
+ .debug_aranges
+                0x00000130       0x60 ..\obj\yume_mpu6050.o
+ .debug_aranges
+                0x00000190       0x28 ..\obj\yume_rotary_switch.o
+ .debug_aranges
+                0x000001b8      0x100 ..\obj\stm32f4xx_usart.o
+ .debug_aranges
+                0x000002b8       0x40 ..\obj\yume_usart_comm.o
+ .debug_aranges
+                0x000002f8       0x28 ..\obj\startup_stm32f4xx.o
+ .debug_aranges
+                0x00000320       0x28 ..\obj\main.o
+ .debug_aranges
+                0x00000348      0x178 ..\obj\stm32f4xx_rcc.o
+ .debug_aranges
+                0x000004c0       0x40 ..\obj\yume_bldc_fan.o
+ .debug_aranges
+                0x00000500      0x148 ..\obj\stm32f4xx_adc.o
+ .debug_aranges
+                0x00000648       0xa0 ..\obj\printf.o
+ .debug_aranges
+                0x000006e8       0x20 ..\obj\yume_utilities.o
+ .debug_aranges
+                0x00000708       0x58 ..\obj\yume_systick_delay.o
+ .debug_aranges
+                0x00000760       0x50 ..\obj\yume_tpa_servo.o
+ .debug_aranges
+                0x000007b0       0x28 ..\obj\yume_sound_activation.o
+ .debug_aranges
+                0x000007d8       0x88 ..\obj\stm32f4xx_gpio.o
+ .debug_aranges
+                0x00000860       0x20 ..\obj\sh_cmd.o
+ .debug_aranges
+                0x00000880       0x30 ..\obj\system_stm32f4xx.o
+ .debug_aranges
+                0x000008b0       0x60 ..\obj\syscalls.o
+ .debug_aranges
+                0x00000910       0xa0 ..\obj\yume_tcs3200.o
+ .debug_aranges
+                0x000009b0      0x230 ..\obj\yume_algorithm.o
+ .debug_aranges
+                0x00000be0       0x40 ..\obj\yume_infrared_proximity.o
+ .debug_aranges
+                0x00000c20       0x48 ..\obj\yume_pid_controller.o
+ .debug_aranges
+                0x00000c68       0x48 ..\obj\yume_user_interface.o
+ .debug_aranges
+                0x00000cb0      0x120 ..\obj\stm32f4xx_i2c.o
+ .debug_aranges
+                0x00000dd0      0x118 ..\obj\yume_hexapod_cmd.o
+ .debug_aranges
+                0x00000ee8       0x40 ..\obj\misc.o
+ .debug_aranges
+                0x00000f28       0x48 ..\obj\yume_ping_receiver.o
+ .debug_aranges
+                0x00000f70       0x38 ..\obj\yume_UV-TRON.o
+ .debug_aranges
+                0x00000fa8      0x2f8 ..\obj\stm32f4xx_tim.o
+
+.debug_ranges   0x00000000     0x11d8
+ .debug_ranges  0x00000000       0x20 ..\obj\semihosting.o
+ .debug_ranges  0x00000020       0xf0 ..\obj\yume_lcd.o
+ .debug_ranges  0x00000110       0x50 ..\obj\yume_mpu6050.o
+ .debug_ranges  0x00000160       0x18 ..\obj\yume_rotary_switch.o
+ .debug_ranges  0x00000178       0xf0 ..\obj\stm32f4xx_usart.o
+ .debug_ranges  0x00000268       0x30 ..\obj\yume_usart_comm.o
+ .debug_ranges  0x00000298       0x18 ..\obj\startup_stm32f4xx.o
+ .debug_ranges  0x000002b0       0x30 ..\obj\main.o
+ .debug_ranges  0x000002e0      0x168 ..\obj\stm32f4xx_rcc.o
+ .debug_ranges  0x00000448       0x30 ..\obj\yume_bldc_fan.o
+ .debug_ranges  0x00000478      0x138 ..\obj\stm32f4xx_adc.o
+ .debug_ranges  0x000005b0       0x90 ..\obj\printf.o
+ .debug_ranges  0x00000640       0x10 ..\obj\yume_utilities.o
+ .debug_ranges  0x00000650       0x48 ..\obj\yume_systick_delay.o
+ .debug_ranges  0x00000698       0x40 ..\obj\yume_tpa_servo.o
+ .debug_ranges  0x000006d8       0x18 ..\obj\yume_sound_activation.o
+ .debug_ranges  0x000006f0       0x78 ..\obj\stm32f4xx_gpio.o
+ .debug_ranges  0x00000768       0x20 ..\obj\system_stm32f4xx.o
+ .debug_ranges  0x00000788       0x50 ..\obj\syscalls.o
+ .debug_ranges  0x000007d8       0x90 ..\obj\yume_tcs3200.o
+ .debug_ranges  0x00000868      0x340 ..\obj\yume_algorithm.o
+ .debug_ranges  0x00000ba8       0x30 ..\obj\yume_infrared_proximity.o
+ .debug_ranges  0x00000bd8       0x38 ..\obj\yume_pid_controller.o
+ .debug_ranges  0x00000c10       0x38 ..\obj\yume_user_interface.o
+ .debug_ranges  0x00000c48      0x110 ..\obj\stm32f4xx_i2c.o
+ .debug_ranges  0x00000d58      0x108 ..\obj\yume_hexapod_cmd.o
+ .debug_ranges  0x00000e60       0x30 ..\obj\misc.o
+ .debug_ranges  0x00000e90       0x38 ..\obj\yume_ping_receiver.o
+ .debug_ranges  0x00000ec8       0x28 ..\obj\yume_UV-TRON.o
+ .debug_ranges  0x00000ef0      0x2e8 ..\obj\stm32f4xx_tim.o
+
+.debug_line     0x00000000     0xc2fa
+ .debug_line    0x00000000       0xea ..\obj\semihosting.o
+ .debug_line    0x000000ea      0x5c9 ..\obj\yume_lcd.o
+ .debug_line    0x000006b3      0x575 ..\obj\yume_mpu6050.o
+ .debug_line    0x00000c28      0x479 ..\obj\yume_rotary_switch.o
+ .debug_line    0x000010a1      0x56c ..\obj\stm32f4xx_usart.o
+ .debug_line    0x0000160d      0x545 ..\obj\yume_usart_comm.o
+ .debug_line    0x00001b52       0xe0 ..\obj\startup_stm32f4xx.o
+ .debug_line    0x00001c32      0x50c ..\obj\main.o
+ .debug_line    0x0000213e      0x664 ..\obj\stm32f4xx_rcc.o
+ .debug_line    0x000027a2      0x461 ..\obj\yume_bldc_fan.o
+ .debug_line    0x00002c03      0x61c ..\obj\stm32f4xx_adc.o
+ .debug_line    0x0000321f      0x433 ..\obj\printf.o
+ .debug_line    0x00003652      0x3fd ..\obj\yume_utilities.o
+ .debug_line    0x00003a4f      0x303 ..\obj\yume_systick_delay.o
+ .debug_line    0x00003d52        0x0 ..\obj\test.o
+ .debug_line    0x00003d52      0x557 ..\obj\yume_tpa_servo.o
+ .debug_line    0x000042a9      0x3e3 ..\obj\yume_sound_activation.o
+ .debug_line    0x0000468c      0x407 ..\obj\stm32f4xx_gpio.o
+ .debug_line    0x00004a93       0xbd ..\obj\sh_cmd.o
+ .debug_line    0x00004b50      0x2be ..\obj\system_stm32f4xx.o
+ .debug_line    0x00004e0e      0x1e2 ..\obj\syscalls.o
+ .debug_line    0x00004ff0      0x6ce ..\obj\yume_tcs3200.o
+ .debug_line    0x000056be     0x2458 ..\obj\yume_algorithm.o
+ .debug_line    0x00007b16      0x3dd ..\obj\yume_global_var.o
+ .debug_line    0x00007ef3      0x403 ..\obj\yume_infrared_proximity.o
+ .debug_line    0x000082f6      0x5bc ..\obj\yume_pid_controller.o
+ .debug_line    0x000088b2      0x4a0 ..\obj\yume_user_interface.o
+ .debug_line    0x00008d52      0x5a4 ..\obj\stm32f4xx_i2c.o
+ .debug_line    0x000092f6     0x151b ..\obj\yume_hexapod_cmd.o
+ .debug_line    0x0000a811      0x30d ..\obj\misc.o
+ .debug_line    0x0000ab1e      0x4e4 ..\obj\yume_ping_receiver.o
+ .debug_line    0x0000b002      0x3ef ..\obj\yume_UV-TRON.o
+ .debug_line    0x0000b3f1      0x3c8 ..\obj\yume_interrupt_monitor.o
+ .debug_line    0x0000b7b9      0xb41 ..\obj\stm32f4xx_tim.o
+
+.debug_str      0x00000000     0x5839
+ .debug_str     0x00000000      0x153 ..\obj\semihosting.o
+                                0x18c (size before relaxing)
+ .debug_str     0x00000153      0x3c9 ..\obj\yume_lcd.o
+                                0x4b3 (size before relaxing)
+ .debug_str     0x0000051c      0x7c3 ..\obj\yume_mpu6050.o
+                                0xaad (size before relaxing)
+ .debug_str     0x00000cdf      0x12f ..\obj\yume_rotary_switch.o
+                                0x9b0 (size before relaxing)
+ .debug_str     0x00000e0e      0x45b ..\obj\stm32f4xx_usart.o
+                                0x667 (size before relaxing)
+ .debug_str     0x00001269      0x642 ..\obj\yume_usart_comm.o
+                                0xef0 (size before relaxing)
+ .debug_str     0x000018ab       0xee ..\obj\startup_stm32f4xx.o
+                                0x156 (size before relaxing)
+ .debug_str     0x00001999      0x203 ..\obj\main.o
+                                0xa82 (size before relaxing)
+ .debug_str     0x00001b9c      0x621 ..\obj\stm32f4xx_rcc.o
+                                0x828 (size before relaxing)
+ .debug_str     0x000021bd       0xcf ..\obj\yume_bldc_fan.o
+                                0x9ea (size before relaxing)
+ .debug_str     0x0000228c      0x535 ..\obj\stm32f4xx_adc.o
+                                0x7dc (size before relaxing)
+ .debug_str     0x000027c1      0x4ac ..\obj\printf.o
+                                0x6af (size before relaxing)
+ .debug_str     0x00002c6d       0xa1 ..\obj\yume_utilities.o
+                                0x8a3 (size before relaxing)
+ .debug_str     0x00002d0e      0x1c5 ..\obj\yume_systick_delay.o
+                                0x7f5 (size before relaxing)
+ .debug_str     0x00002ed3      0x135 ..\obj\yume_tpa_servo.o
+                                0xa04 (size before relaxing)
+ .debug_str     0x00003008       0xaa ..\obj\yume_sound_activation.o
+                                0x916 (size before relaxing)
+ .debug_str     0x000030b2      0x1d2 ..\obj\stm32f4xx_gpio.o
+                                0x47b (size before relaxing)
+ .debug_str     0x00003284       0xf2 ..\obj\system_stm32f4xx.o
+                                0x382 (size before relaxing)
+ .debug_str     0x00003376      0x188 ..\obj\syscalls.o
+                                0x327 (size before relaxing)
+ .debug_str     0x000034fe      0x2f5 ..\obj\yume_tcs3200.o
+                               0x1177 (size before relaxing)
+ .debug_str     0x000037f3      0x61a ..\obj\yume_algorithm.o
+                               0x1181 (size before relaxing)
+ .debug_str     0x00003e0d      0x312 ..\obj\yume_global_var.o
+                                0xea3 (size before relaxing)
+ .debug_str     0x0000411f       0xcf ..\obj\yume_infrared_proximity.o
+                                0x913 (size before relaxing)
+ .debug_str     0x000041ee       0xcd ..\obj\yume_pid_controller.o
+                                0x9ae (size before relaxing)
+ .debug_str     0x000042bb       0xd9 ..\obj\yume_user_interface.o
+                                0xdfd (size before relaxing)
+ .debug_str     0x00004394      0x375 ..\obj\stm32f4xx_i2c.o
+                                0x63d (size before relaxing)
+ .debug_str     0x00004709      0x37c ..\obj\yume_hexapod_cmd.o
+                               0x131e (size before relaxing)
+ .debug_str     0x00004a85      0x14a ..\obj\misc.o
+                                0x3b1 (size before relaxing)
+ .debug_str     0x00004bcf       0xe5 ..\obj\yume_ping_receiver.o
+                                0xec8 (size before relaxing)
+ .debug_str     0x00004cb4       0xbd ..\obj\yume_UV-TRON.o
+                                0x909 (size before relaxing)
+ .debug_str     0x00004d71       0x8c ..\obj\yume_interrupt_monitor.o
+                                0x88e (size before relaxing)
+ .debug_str     0x00004dfd      0xa3c ..\obj\stm32f4xx_tim.o
+                                0xda8 (size before relaxing)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 ..\obj\semihosting.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 ..\obj\yume_lcd.o
+ .comment       0x00000000       0x71 ..\obj\yume_mpu6050.o
+ .comment       0x00000000       0x71 ..\obj\yume_rotary_switch.o
+ .comment       0x00000000       0x71 ..\obj\stm32f4xx_usart.o
+ .comment       0x00000000       0x71 ..\obj\yume_usart_comm.o
+ .comment       0x00000000       0x71 ..\obj\startup_stm32f4xx.o
+ .comment       0x00000000       0x71 ..\obj\main.o
+ .comment       0x00000000       0x71 ..\obj\stm32f4xx_rcc.o
+ .comment       0x00000000       0x71 ..\obj\yume_bldc_fan.o
+ .comment       0x00000000       0x71 ..\obj\stm32f4xx_adc.o
+ .comment       0x00000000       0x71 ..\obj\printf.o
+ .comment       0x00000000       0x71 ..\obj\yume_utilities.o
+ .comment       0x00000000       0x71 ..\obj\yume_systick_delay.o
+ .comment       0x00000000       0x71 ..\obj\test.o
+ .comment       0x00000000       0x71 ..\obj\yume_tpa_servo.o
+ .comment       0x00000000       0x71 ..\obj\yume_sound_activation.o
+ .comment       0x00000000       0x71 ..\obj\stm32f4xx_gpio.o
+ .comment       0x00000000       0x71 ..\obj\system_stm32f4xx.o
+ .comment       0x00000000       0x71 ..\obj\syscalls.o
+ .comment       0x00000000       0x71 ..\obj\yume_tcs3200.o
+ .comment       0x00000000       0x71 ..\obj\yume_algorithm.o
+ .comment       0x00000000       0x71 ..\obj\yume_global_var.o
+ .comment       0x00000000       0x71 ..\obj\yume_infrared_proximity.o
+ .comment       0x00000000       0x71 ..\obj\yume_pid_controller.o
+ .comment       0x00000000       0x71 ..\obj\yume_user_interface.o
+ .comment       0x00000000       0x71 ..\obj\stm32f4xx_i2c.o
+ .comment       0x00000000       0x71 ..\obj\yume_hexapod_cmd.o
+ .comment       0x00000000       0x71 ..\obj\misc.o
+ .comment       0x00000000       0x71 ..\obj\yume_ping_receiver.o
+ .comment       0x00000000       0x71 ..\obj\yume_UV-TRON.o
+ .comment       0x00000000       0x71 ..\obj\yume_interrupt_monitor.o
+ .comment       0x00000000       0x71 ..\obj\stm32f4xx_tim.o
+
+.ARM.attributes
+                0x00000000       0x39
+ .ARM.attributes
+                0x00000000       0x3b ..\obj\semihosting.o
+ .ARM.attributes
+                0x0000003b       0x3b ..\obj\yume_lcd.o
+ .ARM.attributes
+                0x00000076       0x3b ..\obj\yume_mpu6050.o
+ .ARM.attributes
+                0x000000b1       0x3b ..\obj\yume_rotary_switch.o
+ .ARM.attributes
+                0x000000ec       0x3b ..\obj\stm32f4xx_usart.o
+ .ARM.attributes
+                0x00000127       0x3b ..\obj\yume_usart_comm.o
+ .ARM.attributes
+                0x00000162       0x3b ..\obj\startup_stm32f4xx.o
+ .ARM.attributes
+                0x0000019d       0x3b ..\obj\main.o
+ .ARM.attributes
+                0x000001d8       0x3b ..\obj\stm32f4xx_rcc.o
+ .ARM.attributes
+                0x00000213       0x3b ..\obj\yume_bldc_fan.o
+ .ARM.attributes
+                0x0000024e       0x3b ..\obj\stm32f4xx_adc.o
+ .ARM.attributes
+                0x00000289       0x3b ..\obj\printf.o
+ .ARM.attributes
+                0x000002c4       0x3b ..\obj\yume_utilities.o
+ .ARM.attributes
+                0x000002ff       0x3b ..\obj\yume_systick_delay.o
+ .ARM.attributes
+                0x0000033a       0x3b ..\obj\test.o
+ .ARM.attributes
+                0x00000375       0x3b ..\obj\yume_tpa_servo.o
+ .ARM.attributes
+                0x000003b0       0x3b ..\obj\yume_sound_activation.o
+ .ARM.attributes
+                0x000003eb       0x3b ..\obj\stm32f4xx_gpio.o
+ .ARM.attributes
+                0x00000426       0x27 ..\obj\sh_cmd.o
+ .ARM.attributes
+                0x0000044d       0x3b ..\obj\system_stm32f4xx.o
+ .ARM.attributes
+                0x00000488       0x3b ..\obj\syscalls.o
+ .ARM.attributes
+                0x000004c3       0x3b ..\obj\yume_tcs3200.o
+ .ARM.attributes
+                0x000004fe       0x3b ..\obj\yume_algorithm.o
+ .ARM.attributes
+                0x00000539       0x3b ..\obj\yume_global_var.o
+ .ARM.attributes
+                0x00000574       0x3b ..\obj\yume_infrared_proximity.o
+ .ARM.attributes
+                0x000005af       0x3b ..\obj\yume_pid_controller.o
+ .ARM.attributes
+                0x000005ea       0x3b ..\obj\yume_user_interface.o
+ .ARM.attributes
+                0x00000625       0x3b ..\obj\stm32f4xx_i2c.o
+ .ARM.attributes
+                0x00000660       0x3b ..\obj\yume_hexapod_cmd.o
+ .ARM.attributes
+                0x0000069b       0x3b ..\obj\misc.o
+ .ARM.attributes
+                0x000006d6       0x3b ..\obj\yume_ping_receiver.o
+ .ARM.attributes
+                0x00000711       0x3b ..\obj\yume_UV-TRON.o
+ .ARM.attributes
+                0x0000074c       0x3b ..\obj\yume_interrupt_monitor.o
+ .ARM.attributes
+                0x00000787       0x3b ..\obj\stm32f4xx_tim.o
+ .ARM.attributes
+                0x000007c2       0x36 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_atan.o)
+ .ARM.attributes
+                0x000007f8       0x36 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_cos.o)
+ .ARM.attributes
+                0x0000082e       0x36 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_fabs.o)
+ .ARM.attributes
+                0x00000864       0x36 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_fmax.o)
+ .ARM.attributes
+                0x0000089a       0x36 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_fpclassify.o)
+ .ARM.attributes
+                0x000008d0       0x36 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_sin.o)
+ .ARM.attributes
+                0x00000906       0x36 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-w_acos.o)
+ .ARM.attributes
+                0x0000093c       0x36 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-wf_atan2.o)
+ .ARM.attributes
+                0x00000972       0x36 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-e_acos.o)
+ .ARM.attributes
+                0x000009a8       0x36 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-e_rem_pio2.o)
+ .ARM.attributes
+                0x000009de       0x36 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-e_sqrt.o)
+ .ARM.attributes
+                0x00000a14       0x36 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-ef_atan2.o)
+ .ARM.attributes
+                0x00000a4a       0x36 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-k_cos.o)
+ .ARM.attributes
+                0x00000a80       0x36 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-k_rem_pio2.o)
+ .ARM.attributes
+                0x00000ab6       0x36 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-k_sin.o)
+ .ARM.attributes
+                0x00000aec       0x36 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_floor.o)
+ .ARM.attributes
+                0x00000b22       0x36 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_lib_ver.o)
+ .ARM.attributes
+                0x00000b58       0x36 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_matherr.o)
+ .ARM.attributes
+                0x00000b8e       0x36 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_nan.o)
+ .ARM.attributes
+                0x00000bc4       0x36 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_scalbn.o)
+ .ARM.attributes
+                0x00000bfa       0x36 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-sf_atan.o)
+ .ARM.attributes
+                0x00000c30       0x36 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-sf_fabs.o)
+ .ARM.attributes
+                0x00000c66       0x36 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_copysign.o)
+ .ARM.attributes
+                0x00000c9c       0x24 c:/softwares/coocox/gnu tools arm embedded/4.6 2012q2/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000cc0       0x24 c:/softwares/coocox/gnu tools arm embedded/4.6 2012q2/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7e-m/fpu\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000ce4       0x24 c:/softwares/coocox/gnu tools arm embedded/4.6 2012q2/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000d08       0x24 c:/softwares/coocox/gnu tools arm embedded/4.6 2012q2/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7e-m/fpu\libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x00000d2c       0x24 c:/softwares/coocox/gnu tools arm embedded/4.6 2012q2/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7e-m/fpu\libgcc.a(_arm_truncdfsf2.o)
+ .ARM.attributes
+                0x00000d50       0x36 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libc.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000d86       0x36 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libc.a(lib_a-strlen.o)
+
+.debug_frame    0x00000000     0x3f24
+ .debug_frame   0x00000000       0x70 ..\obj\semihosting.o
+ .debug_frame   0x00000070      0x36c ..\obj\yume_lcd.o
+ .debug_frame   0x000003dc      0x12c ..\obj\yume_mpu6050.o
+ .debug_frame   0x00000508       0x4c ..\obj\yume_rotary_switch.o
+ .debug_frame   0x00000554      0x344 ..\obj\stm32f4xx_usart.o
+ .debug_frame   0x00000898       0xb8 ..\obj\yume_usart_comm.o
+ .debug_frame   0x00000950       0x48 ..\obj\startup_stm32f4xx.o
+ .debug_frame   0x00000998       0x4c ..\obj\main.o
+ .debug_frame   0x000009e4      0x4d8 ..\obj\stm32f4xx_rcc.o
+ .debug_frame   0x00000ebc       0x98 ..\obj\yume_bldc_fan.o
+ .debug_frame   0x00000f54      0x434 ..\obj\stm32f4xx_adc.o
+ .debug_frame   0x00001388      0x244 ..\obj\printf.o
+ .debug_frame   0x000015cc       0x30 ..\obj\yume_utilities.o
+ .debug_frame   0x000015fc       0xf0 ..\obj\yume_systick_delay.o
+ .debug_frame   0x000016ec       0xe8 ..\obj\yume_tpa_servo.o
+ .debug_frame   0x000017d4       0x4c ..\obj\yume_sound_activation.o
+ .debug_frame   0x00001820      0x19c ..\obj\stm32f4xx_gpio.o
+ .debug_frame   0x000019bc       0x64 ..\obj\system_stm32f4xx.o
+ .debug_frame   0x00001a20      0x108 ..\obj\syscalls.o
+ .debug_frame   0x00001b28      0x210 ..\obj\yume_tcs3200.o
+ .debug_frame   0x00001d38      0x7f8 ..\obj\yume_algorithm.o
+ .debug_frame   0x00002530       0x9c ..\obj\yume_infrared_proximity.o
+ .debug_frame   0x000025cc       0xa8 ..\obj\yume_pid_controller.o
+ .debug_frame   0x00002674       0xc0 ..\obj\yume_user_interface.o
+ .debug_frame   0x00002734      0x3b4 ..\obj\stm32f4xx_i2c.o
+ .debug_frame   0x00002ae8      0x3e4 ..\obj\yume_hexapod_cmd.o
+ .debug_frame   0x00002ecc       0x9c ..\obj\misc.o
+ .debug_frame   0x00002f68       0xc8 ..\obj\yume_ping_receiver.o
+ .debug_frame   0x00003030       0x80 ..\obj\yume_UV-TRON.o
+ .debug_frame   0x000030b0      0xa3c ..\obj\stm32f4xx_tim.o
+ .debug_frame   0x00003aec       0x38 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_atan.o)
+ .debug_frame   0x00003b24       0x28 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_cos.o)
+ .debug_frame   0x00003b4c       0x20 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_fabs.o)
+ .debug_frame   0x00003b6c       0x30 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_fmax.o)
+ .debug_frame   0x00003b9c       0x20 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_fpclassify.o)
+ .debug_frame   0x00003bbc       0x28 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_sin.o)
+ .debug_frame   0x00003be4       0x34 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-w_acos.o)
+ .debug_frame   0x00003c18       0x20 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-wf_atan2.o)
+ .debug_frame   0x00003c38       0x40 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-e_acos.o)
+ .debug_frame   0x00003c78       0x38 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-e_rem_pio2.o)
+ .debug_frame   0x00003cb0       0x3c C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-e_sqrt.o)
+ .debug_frame   0x00003cec       0x2c C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-ef_atan2.o)
+ .debug_frame   0x00003d18       0x40 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-k_cos.o)
+ .debug_frame   0x00003d58       0x3c C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-k_rem_pio2.o)
+ .debug_frame   0x00003d94       0x40 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-k_sin.o)
+ .debug_frame   0x00003dd4       0x34 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_floor.o)
+ .debug_frame   0x00003e08       0x20 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_matherr.o)
+ .debug_frame   0x00003e28       0x20 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_nan.o)
+ .debug_frame   0x00003e48       0x28 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_scalbn.o)
+ .debug_frame   0x00003e70       0x2c C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-sf_atan.o)
+ .debug_frame   0x00003e9c       0x20 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-sf_fabs.o)
+ .debug_frame   0x00003ebc       0x28 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-s_copysign.o)
+ .debug_frame   0x00003ee4       0x20 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libc.a(lib_a-errno.o)
+ .debug_frame   0x00003f04       0x20 C:\Softwares\CooCox\GNU Tools ARM Embedded\4.6 2012q2\arm-none-eabi\lib\armv7e-m\fpu\libc.a(lib_a-strlen.o)

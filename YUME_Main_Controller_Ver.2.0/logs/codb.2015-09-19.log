@@ -1,0 +1,14 @@
+01:03:23.742 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+03:35:21.663 [Worker-66] INFO  org.coocox.codb.common.log.ProcessTimeLog - 25`344`2`syncComponent by mcuId client`3254
+03:35:59.438 [Worker-66] INFO  org.coocox.codb.common.log.ProcessTimeLog - 32`2128`getCompAssociatedFromServer`37215
+03:35:59.711 [Worker-66] ERROR org.coocox.codb.common.log.ErrorLog - insert user:UserDTO [id=5772, name=bangbh, level=2, gender=0, introduce=null, nationality=null, qq=null, skype=null, msn=null, email=bangbh@gmail.com, mobile=null, telphone=null, imageUrl=null, score=0, registerTime=null, lastLoginTime=null, ispublic=0, nickname=null, grade=0, exp=0, company=null, province=null, city=null, homepage=null, address=null, zipcode=null, educationId=0, industryId=0, positionId=0, nationalityId=0, year=0, month=0, day=0]
+
