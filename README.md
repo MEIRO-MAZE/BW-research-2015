@@ -110,9 +110,3 @@ Catat setiap perubahan besar pada dokumen ini:
 
 📌 **Catatan:**  
 Dokumen SDR ini wajib diperbarui secara berkala, minimal setiap akhir sprint atau fase utama proyek. Gunakan format ini sebagai dasar yang konsisten untuk seluruh tim dalam organisasi riset Workshop Robotika.
-
----
-
-**Contoh Riset:**  
-- https://github.com/NawasenaKRSTI/Connect_PS3_KWSuper  
-- https://github.com/NawasenaKRSTI/esp32_nvs
