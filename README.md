@@ -3,8 +3,8 @@
 
 ##  📘 Tentang Riset:
 
-- **Tim/Divisi:** [Nama tim, misal: KRSTI / NAWASENA]
-- **Tipe Perangkat:** [Misal: ESP32, STM32, Raspberry Pi, dsb]
+- **Tim/Divisi:** [Nama tim, misal: MEIRO]
+- **Tipe Perangkat:** [Misal: STM32]
 - **Tanggal Mulai - Selesai:** [dd/mm/yyyy - dd/mm/yyyy]
 - **Status:** 🚧 _Dalam Pengembangan_ / ✅ _Selesai_ / 🧪 _Eksperimen_
   
